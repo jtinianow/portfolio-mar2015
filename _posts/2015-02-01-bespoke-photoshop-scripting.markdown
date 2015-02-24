@@ -99,7 +99,7 @@ Photoshop that does (kinda) what I want: Layer Comps to Files.jsx. Honestly, I
 don’t even know what “jsx” stands for, but I figure that if I just keep a copy
 of the original, I shouldn’t run into any big problems down the road.
 
-As I mentioned, I do have _some _Javascript experience, and this jsx stuff
+As I mentioned, I do have _some_ Javascript experience, and this jsx stuff
 looks like Javascript, so I scrolled down and tried to decipher it…
 
 …nope, no idea what’s going on here. Let’s do another Google search, this
