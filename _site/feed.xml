@@ -4,10 +4,10 @@
     <title>Jeremy Tinianow</title>
     <description>Jeremy Tinianow is a cross-disciplinary designer with a focus on bridging the gap between digital and physical.
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Feb 2015 15:06:48 -0700</pubDate>
-    <lastBuildDate>Tue, 24 Feb 2015 15:06:48 -0700</lastBuildDate>
+    <link>http://jtinianow.github.io/portfolio-mar2015/</link>
+    <atom:link href="http://jtinianow.github.io/portfolio-mar2015/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 24 Feb 2015 15:20:49 -0700</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2015 15:20:49 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -74,8 +74,8 @@
 
 </description>
         <pubDate>Fri, 20 Feb 2015 14:07:32 -0700</pubDate>
-        <link>/writing/2015/02/20/made-from-scratch/</link>
-        <guid isPermaLink="true">/writing/2015/02/20/made-from-scratch/</guid>
+        <link>http://jtinianow.github.io/portfolio-mar2015/writing/2015/02/20/made-from-scratch/</link>
+        <guid isPermaLink="true">http://jtinianow.github.io/portfolio-mar2015/writing/2015/02/20/made-from-scratch/</guid>
         
         
         <category>writing</category>
@@ -86,17 +86,17 @@
         <title>Columbus Idea Foundry</title>
         <description>&lt;p&gt;Identity for the &lt;a href=&quot;http://columbusideafoundry.com&quot; target=&quot;_blank&quot;&gt;Columbus Idea Foundry,&lt;/a&gt; a makerspace and shared workshop in Columbus, OH.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF-logo-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jtinianow.github.io/content/projects/columbus-idea-foundry/CIF-logo-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF-logo-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jtinianow.github.io/content/projects/columbus-idea-foundry/CIF-logo-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF-postcard-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jtinianow.github.io/content/projects/columbus-idea-foundry/CIF-postcard-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF-postcard-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jtinianow.github.io/content/projects/columbus-idea-foundry/CIF-postcard-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Feb 2015 14:07:32 -0700</pubDate>
-        <link>/projects/2015/02/01/columbus-idea-foundry/</link>
-        <guid isPermaLink="true">/projects/2015/02/01/columbus-idea-foundry/</guid>
+        <link>http://jtinianow.github.io/portfolio-mar2015/projects/2015/02/01/columbus-idea-foundry/</link>
+        <guid isPermaLink="true">http://jtinianow.github.io/portfolio-mar2015/projects/2015/02/01/columbus-idea-foundry/</guid>
         
         
         <category>projects</category>
@@ -280,8 +280,8 @@ designer knows how to leverage every tool at their disposal in order to solve
 a problem. This has been one of my attempts at furthering that understanding.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Feb 2015 14:07:32 -0700</pubDate>
-        <link>/writing/2015/02/01/bespoke-photoshop-scripting/</link>
-        <guid isPermaLink="true">/writing/2015/02/01/bespoke-photoshop-scripting/</guid>
+        <link>http://jtinianow.github.io/portfolio-mar2015/writing/2015/02/01/bespoke-photoshop-scripting/</link>
+        <guid isPermaLink="true">http://jtinianow.github.io/portfolio-mar2015/writing/2015/02/01/bespoke-photoshop-scripting/</guid>
         
         
         <category>writing</category>
@@ -406,8 +406,8 @@ it,” and I hope that I’ve given you something to keep in your pocket when th
 going gets tough.&lt;/p&gt;
 </description>
         <pubDate>Sat, 31 Jan 2015 14:07:32 -0700</pubDate>
-        <link>/writing/2015/01/31/own-it/</link>
-        <guid isPermaLink="true">/writing/2015/01/31/own-it/</guid>
+        <link>http://jtinianow.github.io/portfolio-mar2015/writing/2015/01/31/own-it/</link>
+        <guid isPermaLink="true">http://jtinianow.github.io/portfolio-mar2015/writing/2015/01/31/own-it/</guid>
         
         
         <category>writing</category>
@@ -419,12 +419,12 @@ going gets tough.&lt;/p&gt;
         <description>&lt;p&gt;Hoodfinder is an app we designed in a workshop with esri.&lt;/p&gt;
 
 &lt;div&gt;
-&lt;img src=&quot;/content/case-studies/hoodfinder-hero.png&quot; /&gt;
+&lt;img src=&quot;http://jtinianow.github.io/content/case-studies/hoodfinder-hero.png&quot; /&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Tue, 27 Jan 2015 14:07:32 -0700</pubDate>
-        <link>/case-studies/2015/01/27/hoodfinder/</link>
-        <guid isPermaLink="true">/case-studies/2015/01/27/hoodfinder/</guid>
+        <link>http://jtinianow.github.io/portfolio-mar2015/case-studies/2015/01/27/hoodfinder/</link>
+        <guid isPermaLink="true">http://jtinianow.github.io/portfolio-mar2015/case-studies/2015/01/27/hoodfinder/</guid>
         
         
         <category>case-studies</category>
@@ -564,8 +564,8 @@ tuned.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Learn more about the &lt;a href=&quot;http://bdw.colorado.edu/&quot;&gt;BDW program&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 Jan 2015 14:07:32 -0700</pubDate>
-        <link>/writing/2015/01/14/why-boulder-digital-works/</link>
-        <guid isPermaLink="true">/writing/2015/01/14/why-boulder-digital-works/</guid>
+        <link>http://jtinianow.github.io/portfolio-mar2015/writing/2015/01/14/why-boulder-digital-works/</link>
+        <guid isPermaLink="true">http://jtinianow.github.io/portfolio-mar2015/writing/2015/01/14/why-boulder-digital-works/</guid>
         
         
         <category>writing</category>
@@ -576,11 +576,11 @@ tuned.&lt;/p&gt;
         <title>Fail Faster</title>
         <description>&lt;p&gt;Poster design&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/content/projects/fail-faster/fail-faster.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jtinianow.github.io/content/projects/fail-faster/fail-faster.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 02 Nov 2014 14:07:32 -0700</pubDate>
-        <link>/projects/2014/11/02/fail-faster/</link>
-        <guid isPermaLink="true">/projects/2014/11/02/fail-faster/</guid>
+        <link>http://jtinianow.github.io/portfolio-mar2015/projects/2014/11/02/fail-faster/</link>
+        <guid isPermaLink="true">http://jtinianow.github.io/portfolio-mar2015/projects/2014/11/02/fail-faster/</guid>
         
         
         <category>projects</category>
@@ -592,12 +592,12 @@ tuned.&lt;/p&gt;
         <description>&lt;p&gt;Poster designed for for the annual Pinchflat poster exhibition in Columbus, OH.&lt;/p&gt;
 
 &lt;div&gt;
-&lt;img src=&quot;/content/projects/pinchflat2014/pinchflat2014.jpg&quot; /&gt;
+&lt;img src=&quot;http://jtinianow.github.io/content/projects/pinchflat2014/pinchflat2014.jpg&quot; /&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 01 Nov 2014 15:07:32 -0600</pubDate>
-        <link>/projects/2014/11/01/pinchflat2014/</link>
-        <guid isPermaLink="true">/projects/2014/11/01/pinchflat2014/</guid>
+        <link>http://jtinianow.github.io/portfolio-mar2015/projects/2014/11/01/pinchflat2014/</link>
+        <guid isPermaLink="true">http://jtinianow.github.io/portfolio-mar2015/projects/2014/11/01/pinchflat2014/</guid>
         
         
         <category>projects</category>
@@ -608,24 +608,24 @@ tuned.&lt;/p&gt;
         <title>Lettering, Various</title>
         <description>&lt;p&gt;Custom Lettering.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/content/projects/lettering-oct2014/lettering-cheetah-blood.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jtinianow.github.io/content/projects/lettering-oct2014/lettering-cheetah-blood.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/content/projects/lettering-oct2014/lettering-grit.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jtinianow.github.io/content/projects/lettering-oct2014/lettering-grit.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/content/projects/lettering-oct2014/lettering-mission.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jtinianow.github.io/content/projects/lettering-oct2014/lettering-mission.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/content/projects/lettering-oct2014/lettering-bullshit.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jtinianow.github.io/content/projects/lettering-oct2014/lettering-bullshit.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/content/projects/lettering-oct2014/lettering-type-high.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jtinianow.github.io/content/projects/lettering-oct2014/lettering-type-high.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/content/projects/lettering-oct2014/lettering-no-gimmicks.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jtinianow.github.io/content/projects/lettering-oct2014/lettering-no-gimmicks.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/content/projects/lettering-oct2014/lettering-indy-plus-auto.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jtinianow.github.io/content/projects/lettering-oct2014/lettering-indy-plus-auto.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 01 Oct 2014 15:07:32 -0600</pubDate>
-        <link>/projects/2014/10/01/lettering/</link>
-        <guid isPermaLink="true">/projects/2014/10/01/lettering/</guid>
+        <link>http://jtinianow.github.io/portfolio-mar2015/projects/2014/10/01/lettering/</link>
+        <guid isPermaLink="true">http://jtinianow.github.io/portfolio-mar2015/projects/2014/10/01/lettering/</guid>
         
         
         <category>projects</category>
@@ -636,11 +636,11 @@ tuned.&lt;/p&gt;
         <title>Canis Major</title>
         <description>&lt;p&gt;Poster design&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/content/projects/canis-major/canis-major.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://jtinianow.github.io/content/projects/canis-major/canis-major.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Sep 2014 15:07:32 -0600</pubDate>
-        <link>/projects/2014/09/16/canis-major/</link>
-        <guid isPermaLink="true">/projects/2014/09/16/canis-major/</guid>
+        <link>http://jtinianow.github.io/portfolio-mar2015/projects/2014/09/16/canis-major/</link>
+        <guid isPermaLink="true">http://jtinianow.github.io/portfolio-mar2015/projects/2014/09/16/canis-major/</guid>
         
         
         <category>projects</category>
