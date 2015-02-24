@@ -2,10 +2,10 @@
 layout: post-project
 title:  "Pinchflat 2013"
 date:   2013-05-01 21:07:32
-thumbnail: /content/projects/pinchflat-2013/pinchflat2013-thumb.jpg
+thumbnail: http://jtinianow.github.io/portfolio-mar2015/content/projects/pinchflat-2013/pinchflat2013-thumb.jpg
 categories: projects
 ---
 
 Poster designed for for the annual Pinchflat poster exhibition in Columbus, OH.
 
-![]({{ site.baseurl }}/content/projects/pinchflat-2013/pinchflat2013.jpg)
+![]({{ site.url }}{{ site.baseurl }}/content/projects/pinchflat-2013/pinchflat2013.jpg)
