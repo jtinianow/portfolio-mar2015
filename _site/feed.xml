@@ -2,27 +2,648 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeremy Tinianow</title>
-    <description>Portfolio of Jeremy Tinianow
+    <description>Jeremy Tinianow is a cross-disciplinary designer with a focus on bridging the gap between digital and physical.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Feb 2015 22:06:23 -0700</pubDate>
-    <lastBuildDate>Fri, 20 Feb 2015 22:06:23 -0700</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 24 Feb 2015 15:06:48 -0700</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2015 15:06:48 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Made From Scratch</title>
+        <description>&lt;p&gt;From spring of 2012 until now, I’ve gone from student to professional, back to student. Switching between these roles, I’ve become aware of a crucial difference between them. As a professional, I can (and must) be very efficient, always bringing on new projects, always delivering by a hard deadline. As a student, the rules aren’t as strict. I can be slow and make mistakes, and at the end of the day it’s a learning experience.&lt;/p&gt;
+
+&lt;p&gt;As a student, I have the freedom to do things the long, hard, stupid way. Don’t get me wrong, I care about the work I do as a student. And it’s not that I enjoy making mistakes, simply that I’ve found a lot of value in the freedom to screw up, throw it away, and start over again.&lt;/p&gt;
+
+&lt;p&gt;I’m a big fan of the hard reset. I’ve learned that if it takes me ten hours to build version one, I can do version two from scratch in four, and version three in two. It’s no that I learn that fast, it’s more that by starting with the “everything from scratch” mentality forces me to consider and account for every factor, and more importantly to find opportunities in the hurdles.&lt;/p&gt;
+
+&lt;h3 id=&quot;and-then-there-are-side-projects&quot;&gt;And Then There Are Side Projects.&lt;/h3&gt;
+
+&lt;p&gt;I’ve always thought that student status was a sort of permission slip that allowed me to take a break from the real world and slow down. But I’ve realized that, even in my own experience, the student/professional dichotomy is a false one. Frank Chimero exemplifies the long, hard, stupid approach to professional work (and explains the idea beautifully).&lt;/p&gt;
+
+&lt;h3 id=&quot;thank-you-cards&quot;&gt;Thank You Cards&lt;/h3&gt;
+
+&lt;p&gt;A couple of years ago, when I was a struggling freelancer and nobody was paying me, I decided that side projects might be a good way to keep the stress from ruining my day. I’d read some of Jessica Hische’s thoughts on procrastiworking and the benefit of side projects. More recently, the folks at Crew published an article on the subject of how launching Unsplash saved them from going out of business.&lt;/p&gt;
+
+&lt;p&gt;So I needed something to focus on, and I’ve always been interested in printmaking. I never had time to take a course in undergrad. Now I found myself with far too much free time, and access to the Columbus Idea Foundry’s 30,000 square foot makerspace.&lt;/p&gt;
+
+&lt;p&gt;I decided that this was a great opportunity to get into something that I’d been interested in. I even knew what I was going print: thank you cards. Figuring you can never have too many, I sketched out my design and got ready to print it.&lt;/p&gt;
+
+&lt;h3 id=&quot;pay-to-play&quot;&gt;Pay to Play&lt;/h3&gt;
+
+&lt;p&gt;There was just one catch: printmaking is expensive. For someone who doesn’t already own the equipment, the barrier to entry is pretty high (I later got into screen printing, but only with the help of grant from the Greater Columbus Arts Council).&lt;/p&gt;
+
+&lt;p&gt;The hacker culture and DIY ethic that surrounded me at the Idea Foundry pushed to figure out some way that I could take on printmaking without a large budget.&lt;/p&gt;
+
+&lt;h3 id=&quot;opensource-saves-the-day&quot;&gt;Opensource Saves The Day&lt;/h3&gt;
+
+&lt;p&gt;I forget how I came upon the term “bottle jack printing press,” but one Google search and I was set. Long time printmaker Charles Morgan published his plans for a printing press that you can build for less than $150, and conveniently, I already had access to a full woodshop and plenty of scrap material to work with.&lt;/p&gt;
+
+&lt;h3 id=&quot;but-that-doesnt-mean-it-was-easy&quot;&gt;…But That Doesn’t Mean It Was Easy&lt;/h3&gt;
+
+&lt;p&gt;I set out to build the press, and with the help of a couple friends, was up and running in about a day and a half. Then everything went downhill. I had spent just about all I had on the press, which left no funds for ink, linoleum, or paper. I was stuck with what I could scrounge up: crap quality ink, thin paper, and (luckily) one piece of lino I had in the basement.&lt;/p&gt;
+
+&lt;p&gt;I had decided to see if I could make a printing plate by laser etching the linoleum. There was no way I could afford to have a proper plate made, and I already had access to the Foundry’s laser cutter. Needless, to say, laser etching seemed like an easy option. As it turns out, very few printmakers have used this technique. It was difficult to find any information about exactly how to cut the plate without ruining it. (As a note, this was several years ago, and there’s quite a bit more information out there on this technique now).&lt;/p&gt;
+
+&lt;p&gt;Eventually, I was able to get in touch a designer by the name of Robin Hanhart who had been playing with this technique. He gave me some point pointers and it looked like smooth sailing was ahead.&lt;/p&gt;
+
+&lt;p&gt;As it turns out, low grade water-based ink doesn’t do too well in a high humidity environment like the one I was printing in. Now I had a plate and a press, but everything I tried to print would refuse to dry and ended up smudged beyond the charming point of “that handmade look”.&lt;/p&gt;
+
+&lt;p&gt;It looked like I had just wasted the last week and the last of my money on some stupid endeavor that wouldn’t pay off. I started thinking, “if I needed Thank You cards, why didn’t I just go pick some up at the store?” Suffice to say, this experience was not what you would call “positive”.&lt;/p&gt;
+
+&lt;p&gt;I had to put my little printmaking idea on the back burner for a while, and focus on other things. I felt foolish and as if the whole thing was a waste.&lt;/p&gt;
+
+&lt;h3 id=&quot;making-something-is-never-a-waste-of-time&quot;&gt;Making Something Is Never A Waste Of Time&lt;/h3&gt;
+
+&lt;p&gt;Yes, there is a happy ending to this story. After giving up on my silly little side project, I met Scott Moore, an expert printmaker who joined the Idea Foundry to laser cut his own wood type. I showed him my press and the laser-etched plate, and we were off. Scott gave me not only great advice, but a couple jars of nice rubber-based ink to play with.&lt;/p&gt;
+
+&lt;p&gt;Reinvigorated, I got back to the press and gave it a whirl. This time, success. Within an hour I had 30 Thank You cards, hand-lettered and hand-printed on a handmade printing press.&lt;/p&gt;
+
+&lt;p&gt;These cards didn’t save my freelance business, they didn’t spinoff into a line of profitable products, and I’ve since left the press behind. The point isn’t to turn your long, hard, stupid side projects into money. The point is that sweating, struggling, and making something from scratch is rewarding in its own right. The ups and downs of creative work can be frustrating, but honestly, I wouldn’t trade anything for that moment when a long, hard, stupid project finally pays off.&lt;/p&gt;
+
+&lt;h3 id=&quot;bonus-round&quot;&gt;Bonus Round&lt;/h3&gt;
+
+&lt;p&gt;I was so excited on finishing this ridiculously laborious process that I decided to immediately send out a few of the printed cards. These went out, mostly, to designers I’ve never met, but whose work and thoughts I’ve found helpful.&lt;/p&gt;
+
+&lt;p&gt;Most of them didn’t respond. One did.&lt;/p&gt;
+
+&lt;p&gt;I’ve never met James Victore, but I watch his video series from time to time, and I sent him one of my stupidly frustrating cards. About a week later, I tuned into his YouTube channel, and just about lost it when he held up the card that I printed.&lt;/p&gt;
+
+&lt;p&gt;That feeling was one that I couldn’t buy, and no level of efficiency could ever achieve.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 20 Feb 2015 14:07:32 -0700</pubDate>
+        <link>/writing/2015/02/20/made-from-scratch/</link>
+        <guid isPermaLink="true">/writing/2015/02/20/made-from-scratch/</guid>
+        
+        
+        <category>writing</category>
+        
+      </item>
+    
+      <item>
+        <title>Columbus Idea Foundry</title>
+        <description>&lt;p&gt;Identity for the &lt;a href=&quot;http://columbusideafoundry.com&quot; target=&quot;_blank&quot;&gt;Columbus Idea Foundry,&lt;/a&gt; a makerspace and shared workshop in Columbus, OH.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF-logo-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF-logo-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF-postcard-1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF-postcard-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Feb 2015 14:07:32 -0700</pubDate>
+        <link>/projects/2015/02/01/columbus-idea-foundry/</link>
+        <guid isPermaLink="true">/projects/2015/02/01/columbus-idea-foundry/</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Bespoke Photoshop Scripting</title>
+        <description>&lt;h3 id=&quot;it-bugs-me-that&quot;&gt;It Bugs Me That…&lt;/h3&gt;
+
+&lt;p&gt;Here at BDW, we keep what’s called a “Bugs Me List”. Each person’s list
+consists of items phrased as “It bugs me (that, when, how)…” followed by the
+details about what bugs them. It might sound like we’re bitching and moaning
+about everyday inconveniences, but quite the contrary, the Bugs Me List serves
+an important purpose.&lt;/p&gt;
+
+&lt;p&gt;As user-centered designers, understanding and empathizing with other is great
+practice for creating better products and experiences. This is the utility of
+the Bugs Me List; it helps us understand and explore problems, issues, and
+inconveniences, no matter how small or large, without any preconceived
+solutions or biases.&lt;/p&gt;
+
+&lt;p&gt;Believe it or not, this is how we develop new products. At least some of the
+time. Some of the time, an item on the Bugs Me List may be too minor or too
+specific to a niche group to merit full-on product development. Regardless of
+the scope, our Bugs Me Lists give us ample room to explore problems and create
+their solutions.&lt;/p&gt;
+
+&lt;h4 id=&quot;i-lovehate-photoshop&quot;&gt;I Love/Hate Photoshop&lt;/h4&gt;
+
+&lt;p&gt;This was the case a couple of weeks ago. I had encountered a really
+insignificant problem that might affect 0.001% of the population, and figured
+out a half-decent solution to it, but wasn’t quite satisfied with the result.
+Clearly, this wasn’t an opportunity to create the next great app, web
+platform, or what-have-you. Nonetheless, I sat down yesterday afternoon and
+dove into this tiny insignificant annoyance. It may be a small issue, but
+solving might have some valuable insight.&lt;/p&gt;
+
+&lt;h3 id=&quot;photoshop-adds-0000-to-my-filenames&quot;&gt;…Photoshop Adds “&lt;em&gt;0000&lt;/em&gt;” To My Filenames&lt;/h3&gt;
+
+&lt;p&gt;“It bugs me that Photoshop adds two underscores and a four-digit sequence to
+names of files generated with the ‘Layer Comps to Files’ script.”&lt;/p&gt;
+
+&lt;p&gt;I know, right, total travesty. Like I said, not a huge deal. But when I’ve
+carefully named 100+ layer comps and run Photoshop’s built-in “Layer Comps to
+Files” script, I really don’t appreciate having to deal with all those extra
+digits. This is especially annoying when the images exported are to be used on
+the web. I’d much rather keep the filenames short and descriptive (hence the
+careful naming of layer comps).&lt;/p&gt;
+
+&lt;p&gt;I’ve had projects that involved running this script multiple times a day for
+several large files, and often I’d be running the script multiple times per
+week after making edits to master files. Like I said, I had a half-baked
+solution to this problem. The issue persists, however, as a matter of scale.
+Every time I have to remove the extra digits takes a few seconds, but doing it
+multiple times a week over a several month project starts to really add up.
+I’d rather side-step the whole situation and spend more of my time designing.&lt;/p&gt;
+
+&lt;p&gt;Here’s what I set out to achieve:&lt;/p&gt;
+
+&lt;h3 id=&quot;the-half-baked-solution&quot;&gt;The Half-Baked Solution&lt;/h3&gt;
+
+&lt;p&gt;A couple years ago, Adobe Bridge came to my rescue. I found some article about
+Batch Renaming, or maybe it was a Lynda video, at any rate it opened my eyes
+to an invaluable workflow tip.&lt;/p&gt;
+
+&lt;p&gt;Bridge uses something called GREP (which I’m guessing is some kind of acronym)
+to automate the file renaming process. It’s really simple to take an entire
+folder of IMG_1924.jpg’s and rename them to FunFamilyVacation_2015_001.jpg’s
+in a matter of seconds. Things get tricky when you want to keep parts of the
+filename intact (i.e. the prefix chosen on script export, and layer comp
+names) while removing other parts (&lt;em&gt;0001&lt;/em&gt;, &lt;em&gt;0002&lt;/em&gt;, etc…).&lt;/p&gt;
+
+&lt;p&gt;Luckily, Bridge supports intermediate string substitutions, and lets you set
+up Batch Renaming presets, which is exactly what I did. So instead of having
+to add the same 7 or 8 steps to the batch every time, I could just load up a
+preset and run it. This made things a little more efficient, and I was happy
+with the solution for a while.&lt;/p&gt;
+
+&lt;p&gt;Still, even with the saved preset and the automated process, I wasn’t entirely
+satisfied. Why waste any time removing parts of filenames that I didn’t want?&lt;/p&gt;
+
+&lt;h3 id=&quot;just-google-it&quot;&gt;Just Google It&lt;/h3&gt;
+
+&lt;p&gt;I sat down, opened up Chrome and searched “how to write a photoshop script.”
+It’s worth mentioning that I am wholeheartedly NOT a programmer. I have some
+frontend web development experience, but this is mostly limited to HTML and
+CSS languages, with very little JavaScript experience. So I was looking for
+something simple to get started.&lt;/p&gt;
+
+&lt;p&gt;I found a great article on how to write your first photoshop script:
+&lt;a href=&quot;http://creativedroplets.com/tutorial-write-your-first-photoshop-
+script/&quot;&gt;http://creativedroplets.com/tutorial-write-your-first-photoshop-
+script/&lt;/a&gt;. And I had every intention of reading this article, but honestly I
+really like to hack things together and sometimes I’m a bit impatient. Before
+I really knew what I was doing, I had opened up the script file within
+Photoshop that does (kinda) what I want: Layer Comps to Files.jsx. Honestly, I
+don’t even know what “jsx” stands for, but I figure that if I just keep a copy
+of the original, I shouldn’t run into any big problems down the road.&lt;/p&gt;
+
+&lt;p&gt;As I mentioned, I do have _some _Javascript experience, and this jsx stuff
+looks like Javascript, so I scrolled down and tried to decipher it…&lt;/p&gt;
+
+&lt;p&gt;…nope, no idea what’s going on here. Let’s do another Google search, this
+time: “photoshop layer comps to files without prefix” and the first link is a
+thread from Adobe’s forum &lt;a href=&quot;https://for
+ums.adobe.com/thread/485215&quot;&gt;https://forums.adobe.com/thread/485215&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;followingnot-following-instructions&quot;&gt;Following/Not Following Instructions&lt;/h3&gt;
+
+&lt;p&gt;Again, I’m kind of impatient (at least when it comes to my own projects) so I
+jumped around the forum thread a bit and started poking and prodding the
+script file. I commented out some lines of code, restarted Photoshop, held my
+breath and…&lt;/p&gt;
+
+&lt;p&gt;…I didn’t kill Photoshop! I opened up a file with layer comps in it and ran
+the Layer Comps to Files script. And I got an error. My understanding of
+Javascript is just enough to know that “ReferenceError: zeroSuppress is not a
+function” means that the script calls a function that isn’t defined. So I went
+back into the script file and removed the line that calls that function.&lt;/p&gt;
+
+&lt;p&gt;This time it really did work! The files I exported didn’t have the extra four
+digits…&lt;/p&gt;
+
+&lt;p&gt;…but one of those pesky underscores was still there, so back to the drawing
+board.&lt;/p&gt;
+
+&lt;p&gt;I went back into the script and deleted one more line that (I suspect) is
+responsible for adding the extra underscore. This time after running the
+script, no extra underscore, but only one file was actually exported.&lt;/p&gt;
+
+&lt;p&gt;Back to the drawing board again.&lt;/p&gt;
+
+&lt;h3 id=&quot;z&quot;&gt;⌘ Z&lt;/h3&gt;
+
+&lt;p&gt;I hit undo about half a million times and looked over the thread on Adobe
+again. It turns out someone else had the exact same problem that I did and
+figured out a solution. I copy/pasted their version and…&lt;/p&gt;
+
+&lt;p&gt;…SUCCESS!&lt;/p&gt;
+
+&lt;p&gt;This is how I felt.&lt;/p&gt;
+
+&lt;p&gt;I got Photoshop to do exactly what I want.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-couple-of-notes&quot;&gt;A Couple of Notes&lt;/h3&gt;
+
+&lt;p&gt;First off, I’m pretty sure that the way I did this wouldn’t work in Photoshop
+CC, since the Cloud updates would probably override the edits to the script.
+You could, however, copy the old script into a new file with a different name
+(like “My Layer Comps to Files”) and probably be fine. I actually tried this
+method, but I got two scripts with identical names in the Photoshop dropdown
+menu (there are some additional steps to give the script a unique name in the
+menu).&lt;/p&gt;
+
+&lt;p&gt;I took notes on this whole process, and I’m now painfully aware of how
+inefficiently I addressed a problem that revolves around being more efficient.
+I looked at the same thread on Adobe forums later and realized that, had I
+read the whole thing ahead of time, I would have realized that someone already
+posted a new script to do exactly what I want and had made it available for
+free download. So in a sense, I could have avoided the whole process.&lt;/p&gt;
+
+&lt;p&gt;Nonetheless, I find some merit in my approach. I’m not a programmer, but as a
+designer I do rely heavily on technology, and with the fast-changing tech
+landscape, digging deeper than just downloading someone else’s solution has
+its benefits. For example, I was kind of disappointed by the first error
+message I got, but overjoyed that I knew what it meant _and _how to (sort of)
+fix it.&lt;/p&gt;
+
+&lt;p&gt;When I set out to create a solution to my little dilemma, I was really keen on
+the idea of learning how to write a script from scratch. I suppose I landed on
+a different solution because creating that script from scratch would have been
+even more time-consuming, and why make a new one if you can just improve the
+old one? It’s easy in school to forget about real-world factors like timing,
+but even school or no, time is a precious resource.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-bother&quot;&gt;Why Bother?&lt;/h3&gt;
+
+&lt;p&gt;So why exactly did I bother with this at all? Because I believe that a good
+designer knows how to leverage every tool at their disposal in order to solve
+a problem. This has been one of my attempts at furthering that understanding.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Feb 2015 14:07:32 -0700</pubDate>
+        <link>/writing/2015/02/01/bespoke-photoshop-scripting/</link>
+        <guid isPermaLink="true">/writing/2015/02/01/bespoke-photoshop-scripting/</guid>
+        
+        
+        <category>writing</category>
+        
+      </item>
+    
+      <item>
+        <title>Own It</title>
+        <description>&lt;p&gt;It was hot. And really muggy. In August, one becomes painfully aware that most
+of central Ohio used to be a swamp.&lt;/p&gt;
+
+&lt;p&gt;I lost my train of thought, but I wanted to keep listening. I was in the
+honeymoon phase of “creative work,” and this photographer was prattling on
+about this, that, and the other. I can’t remember his name, or most of what he
+said, except for one tidbit that’s stuck with me years later.&lt;/p&gt;
+
+&lt;p&gt;“Whatever you’re doing, you made a choice to do it, and whether you want to
+or not, you’ve gotta own it.”&lt;/p&gt;
+
+&lt;p&gt;I’m paraphrasing, but this is the idea that I’ve returned to many times in the
+course of my design practice.&lt;/p&gt;
+
+&lt;p&gt;Some days, the clouds part and a light shines down with the best opportunity.
+You share a passion with your client, they’ve got a hefty budget, they know
+what they need, and the rapport is instant.&lt;/p&gt;
+
+&lt;p&gt;Most days, especially as an up-and-comer, this is not the case. We’ve all got
+bills to pay, and that third-string marketing agency needs some newspaper
+inserts that, “you know, just really pop.” Or you’ve got an opportunity to do
+some work that you really care about, but the client doesn’t have money, and
+you’ve gotta accept that taking on their project means no paycheck for a few
+weeks.&lt;/p&gt;
+
+&lt;p&gt;Either of these situations can make any designer, writer, photographer end up
+wanting to pull their hair out. I’m either not getting paid, or I’m not moving
+my career in the direction I want it to go.&lt;/p&gt;
+
+&lt;h3 id=&quot;you-made-a-choice&quot;&gt;You Made A Choice&lt;/h3&gt;
+
+&lt;p&gt;You’d be hard pressed to find anyone in a creative profession that was
+“forced” into their industry. No one with their back against the wall has ever
+thought, “Well, I guess graphic design would be a good way to make some quick
+cash.” The vast majority of us are very lucky, and a lot of stars probably had
+to align for us to get to where we are.&lt;/p&gt;
+
+&lt;p&gt;That being said, this is a choice. And there’s no shame in changing your mind,
+or even just taking a hiatus to rethink your goals.&lt;/p&gt;
+
+&lt;p&gt;I try to remember that when I’m approached with a shit project, taking it on
+is a choice. Even if the alternative seems a bit risky. I cover my ass with
+kill clauses in every project (a mutually beneficial situation), but keeping
+in mind that I am making a choice has helped me avoid some bad situations.
+(Side note: I’ve always found manual labor a good and well-paying way to take
+a break from the everyday stress of creative work)&lt;/p&gt;
+
+&lt;h3 id=&quot;attitude-trumps-ego&quot;&gt;Attitude Trumps Ego&lt;/h3&gt;
+
+&lt;p&gt;Why? Because no one else can do it for you. Whether you’re a solo freelancer
+or part of a team, other people can push you, they can try to convince you
+that the work matters. But it’s gonna come down to you.&lt;/p&gt;
+
+&lt;p&gt;This isn’t about ego, it’s about attitude. Owning it doesn’t mean injecting
+your personal style into every project. It means due diligence and hard work
+for their own sake. It means owning up to the fact that your job is not only
+to get the lighting right, pick a good color palette, or write up the best
+tagline. Your job is advocating to your client.&lt;/p&gt;
+
+&lt;h4 id=&quot;there-are-no-bad-creative-briefs-only-bad-designers&quot;&gt;&lt;em&gt;There are no bad creative briefs, only bad designers.&lt;/em&gt;&lt;/h4&gt;
+
+&lt;p&gt;I admit, I’m guilty of blaming the brief. Sometimes the client just doesn’t
+get it. I know that they want a handful of one-off fliers, but that logo
+really looks like shit. Come to think of it, their whole brand strategy is a
+bit off. Michael Bierut even coined a term for this: &lt;a href=&quot;http://designobserver.com/feature/youre-so-intelligent/5917/&quot;&gt;Problem Definition
+Escalation&lt;/a&gt;.
+It’s easy to go down the rabbit hole of “what’s wrong with this picture,”
+especially when the client invites your opinion.&lt;/p&gt;
+
+&lt;p&gt;Honestly, I’ve found that better work comes out of sticking to the brief.
+We’re creative, dammit! If the brief is restrictive, that’s great. Maybe the
+product isn’t the best or the cheapest, but that just makes the creative
+challenge that much more engaging.&lt;/p&gt;
+
+&lt;p&gt;I used to work as in-house art director at an apparel company, and several
+weeks after bringing on a new photographer, we ran into an issue. This
+photographer felt that one of the new products we were introducing was simply
+too low quality to make it look appealing to customers. After a week of trying
+to shoot it, we were again on the hunt for a new photographer.&lt;/p&gt;
+
+&lt;p&gt;The thought occurred to me a few days later, that challenging briefs like this
+are worth their weight in frustration. Obviously, it’s difficult to hear that
+your hard work isn’t quite up to snuff. What I try to keep in mind is, a
+project can feel like it’s a lost cause, but the work is rewarding in the
+lessons it teaches you. Even if you’re working for an industry you couldn’t
+care less about.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-side-note-on-side-projects&quot;&gt;A Side Note on Side Projects&lt;/h3&gt;
+
+&lt;p&gt;Side projects are great. I used to shut down in the evenings and weekends when
+I was in the midst of unlikeable paid work. That was all well and good, but I
+think I’ve found something better.&lt;/p&gt;
+
+&lt;p&gt;Last year I spent a lot more time than I would have liked to shooting and
+editing product photography. It was very technical, very precise, and very
+boring. Eight hours a day, five days a week, for three months. In the
+evenings, I drew letters.&lt;/p&gt;
+
+&lt;p&gt;They weren’t even good, and they didn’t spin off into sellable products or
+lead to work that I was interested in. But the results didn’t matter. The
+point is that, even when I was pressed by my employer to do work that I wasn’t
+wild about, I still had something to put creative energy toward that mattered
+to me for its own sake.&lt;/p&gt;
+
+&lt;h3 id=&quot;owning-it&quot;&gt;Owning It&lt;/h3&gt;
+
+&lt;p&gt;I’m not sure if I’ve understood exactly what that photographer was talking
+about on that hot, sweaty day five years ago. For all I know, he was just
+making small talk, inflating his ego in front of some creative neophytes.&lt;/p&gt;
+
+&lt;p&gt;But that’s beside the point. This idea has stuck with me, and I keep coming
+back to it. I think there’s something to be gained from the concept of “owning
+it,” and I hope that I’ve given you something to keep in your pocket when the
+going gets tough.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 31 Jan 2015 14:07:32 -0700</pubDate>
+        <link>/writing/2015/01/31/own-it/</link>
+        <guid isPermaLink="true">/writing/2015/01/31/own-it/</guid>
+        
+        
+        <category>writing</category>
+        
+      </item>
     
       <item>
         <title>Hoodfinder</title>
         <description>&lt;p&gt;Hoodfinder is an app we designed in a workshop with esri.&lt;/p&gt;
 
+&lt;div&gt;
+&lt;img src=&quot;/content/case-studies/hoodfinder-hero.png&quot; /&gt;
+&lt;/div&gt;
 </description>
-        <pubDate>Fri, 20 Feb 2015 14:07:32 -0700</pubDate>
-        <link>http://yourdomain.com/case/study/2015/02/20/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/case/study/2015/02/20/welcome-to-jekyll.html</guid>
+        <pubDate>Tue, 27 Jan 2015 14:07:32 -0700</pubDate>
+        <link>/case-studies/2015/01/27/hoodfinder/</link>
+        <guid isPermaLink="true">/case-studies/2015/01/27/hoodfinder/</guid>
         
         
-        <category>case</category>
+        <category>case-studies</category>
         
-        <category>study</category>
+      </item>
+    
+      <item>
+        <title>Why Boulder Digital Works?</title>
+        <description>&lt;h2 id=&quot;part-1&quot;&gt;Part 1&lt;/h2&gt;
+
+&lt;p&gt;Just before Thanksgiving 2014, I made the decision to leave a comfortable and
+enjoyable job in my hometown, and go back to school. The program I chose to
+attend, Boulder Digital Works (or BDW for short) is anything but typical.
+Classes started this week, and as a new student, the question of motivation
+has come up multiple times.&lt;/p&gt;
+
+&lt;p&gt;I’ve approached this question from multiple angles, and I’d like to get it
+down on paper (or rather on screen), if for nothing else than for the sake of
+revisiting at the end of the program, to see how BDW changes my approach to
+design, my thought process, and my goals.&lt;/p&gt;
+
+&lt;h3 id=&quot;who-i-am&quot;&gt;Who I am&lt;/h3&gt;
+
+&lt;p&gt;My design path started in 2008, when I embarked on a Bachelor’s of Science
+track in Landscape Architecture at the Ohio State University. After my first
+year, I became interested in graphic design, and elected to pursue a minor in
+the university’s design department.&lt;/p&gt;
+
+&lt;p&gt;I quickly found that, when I wanted to procrastinate on a project for my
+major, I would often work on visual projects. Jessica Hische would call this
+“procrastiworking” and I’m in full agreement with her on the idea that this is
+the type of work one should do for a living. This belief led me to pursue a
+graphic design career after graduating in 2012.&lt;/p&gt;
+
+&lt;p&gt;I decided to go freelance, despite the fact that I really had no idea what I
+was doing, and I soon got involved with a makerspace in Columbus called the
+Columbus Idea Foundry. For the next year and a half, I spent my days on client
+work and my nights on the Idea Foundry brand.&lt;/p&gt;
+
+&lt;p&gt;Late in 2013, I was approached by Daniel Fox, the founder of online t-shirt
+retailer Skreened, with an opportunity that would be a wet dream for most
+graphic designers; to take free reign over the established brand, and execute
+it however I saw fit.&lt;/p&gt;
+
+&lt;p&gt;Over the following year, I designed over 100 promotional campaigns, a handful
+of in-house typefaces, and learned a great deal about commercial branding. As
+the year drew on, however, I began to feel that it wasn’t enough. I wasn’t
+satisfied with, as Frank Chimero puts it, design as decoration. The pressure
+and pace of the company made it difficult, not only for myself but for the
+entire creative team, to really dig in to design challenges.&lt;/p&gt;
+
+&lt;p&gt;This difficulty was compounded by the realization that, maybe, art direction
+wasn’t my strong suit. I made the leap from graphic designer to art director
+early on in my career, and I never stopped to think about which type of work
+best suits me. I think I prefer the design side and actually producing things,
+but maybe I just need some lessons in how to direct other creatives.&lt;/p&gt;
+
+&lt;p&gt;So, I started looking around.&lt;/p&gt;
+
+&lt;p&gt;Having previously applied and been accepted to a handful of great MFA Design
+programs, I had some vague ideas about what I was looking for. I wanted to
+find a program that would not put me into debt, that would not restrict my
+flexibility, and most importantly, a program that would not take me fully
+outside of the industry.&lt;/p&gt;
+
+&lt;h3 id=&quot;enter-bdw&quot;&gt;Enter BDW&lt;/h3&gt;
+
+&lt;p&gt;My interest was piqued when I stumbled upon an article entitled &lt;a href=&quot;http://digiday.com/agencies/nobody-wants-work-
+agencies/&quot;&gt;The Anatomy
+of an Agency Talent Crisis&lt;/a&gt;, which briefly mentioned BDW. That was enough to get me interested,
+and serendipitously, I was flying out to Denver for Thanksgiving, so I set up
+a studio visit.&lt;/p&gt;
+
+&lt;p&gt;The full rundown of the BDW approach can be found on the &lt;a href=&quot;http://bdw.colorado.edu/&quot;&gt;studio’s
+website&lt;/a&gt;. I could rattle off a list a mile long of
+all the things that appeal to me about BDW, but I’ll focus on just a few.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;BDW is the real world&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Again, I didn’t want to step out of the industry entirely. BDW students are
+guided by industry leaders, not full-time academics. I’ve been in the real
+word for several years. Why would I want to step out of it?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Projects that bridge physical and digital media&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This has been a point of interest of mine since reading Frank Chimero’s
+article &lt;a href=&quot;http://frankchimero.com/talks
+/designing-in-the-borderlands/transcript/&quot;&gt;Designing in the Borderlands&lt;/a&gt;. When it comes to physical vs.
+digital, I don’t want to pick sides. I don’t think I, or anyone for that
+matter, has to. There are unique challenges and opportunities in every medium,
+and I’d like to explore those.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is no typical BDW student&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Students at BDW come from a range of backgrounds, from finance to performance
+art. I think something really awful happens when designers put ourselves in an
+exclusive category and close ourselves off to what other creatives are doing.
+This inter-mixing of disciplines also presents opportunities for every student
+to learn by teaching. I’ve already benefited from questions that other
+students have asked me about my approach, which has forced me to re-think how
+I’m comfortable doing things and shed light on new approaches.&lt;/p&gt;
+
+&lt;p&gt;These aspects combined with the relatively fast approach (we’ll be done in
+about 7 months) and the low cost of the program made my decision an easy one.
+At the end of the day, I couldn’t see any reason not to attend BDW.&lt;/p&gt;
+
+&lt;p&gt;Perhaps the question still remains, if I know what I want to learn, and I was
+in the real world, why would I go back to school at all? The truth of the
+matter is, industry moves fast and the pressure to avoid failure can stifle
+creativity. There are, of course, plenty of studio’s, agency’s, and company’s
+that exemplify the opposite approach, one that embraces failure as integral to
+the creative process. But that wasn’t the case where I was. BDW presents me
+with an opportunity to go deep, fail often, and learn a lot in a short amount
+of time. Ultimately, that opportunity is why I made the switch.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-i-hope-to-gain&quot;&gt;What I hope to gain&lt;/h3&gt;
+
+&lt;p&gt;So, what’s my goal? I don’t have one. I believe that, just as the best
+products are born out of an immersive process, the best experiences don’t have
+a set end point. I’m not here for the grade, I’m here for the experience. I’m
+not here to master new softwares and programming languages, I’m here to think
+like a better designer than I was yesterday, and to create things that matter
+to real people.&lt;/p&gt;
+
+&lt;p&gt;I’ll revisit this topic in several months, at the end of the BDW program, with
+a look back on what I learned and how the program has influenced me. Stay
+tuned.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Learn more about the &lt;a href=&quot;http://bdw.colorado.edu/&quot;&gt;BDW program&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Jan 2015 14:07:32 -0700</pubDate>
+        <link>/writing/2015/01/14/why-boulder-digital-works/</link>
+        <guid isPermaLink="true">/writing/2015/01/14/why-boulder-digital-works/</guid>
+        
+        
+        <category>writing</category>
+        
+      </item>
+    
+      <item>
+        <title>Fail Faster</title>
+        <description>&lt;p&gt;Poster design&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/projects/fail-faster/fail-faster.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Nov 2014 14:07:32 -0700</pubDate>
+        <link>/projects/2014/11/02/fail-faster/</link>
+        <guid isPermaLink="true">/projects/2014/11/02/fail-faster/</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Pinchflat 2014</title>
+        <description>&lt;p&gt;Poster designed for for the annual Pinchflat poster exhibition in Columbus, OH.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;img src=&quot;/content/projects/pinchflat2014/pinchflat2014.jpg&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 01 Nov 2014 15:07:32 -0600</pubDate>
+        <link>/projects/2014/11/01/pinchflat2014/</link>
+        <guid isPermaLink="true">/projects/2014/11/01/pinchflat2014/</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Lettering, Various</title>
+        <description>&lt;p&gt;Custom Lettering.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/projects/lettering-oct2014/lettering-cheetah-blood.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/projects/lettering-oct2014/lettering-grit.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/projects/lettering-oct2014/lettering-mission.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/projects/lettering-oct2014/lettering-bullshit.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/projects/lettering-oct2014/lettering-type-high.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/projects/lettering-oct2014/lettering-no-gimmicks.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/projects/lettering-oct2014/lettering-indy-plus-auto.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 01 Oct 2014 15:07:32 -0600</pubDate>
+        <link>/projects/2014/10/01/lettering/</link>
+        <guid isPermaLink="true">/projects/2014/10/01/lettering/</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Canis Major</title>
+        <description>&lt;p&gt;Poster design&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/content/projects/canis-major/canis-major.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Sep 2014 15:07:32 -0600</pubDate>
+        <link>/projects/2014/09/16/canis-major/</link>
+        <guid isPermaLink="true">/projects/2014/09/16/canis-major/</guid>
+        
+        
+        <category>projects</category>
         
       </item>
     
