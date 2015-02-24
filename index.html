@@ -15,7 +15,7 @@ layout: default
 		<div class="project-preview">
 			{{% for posts in category %}}
 				{{% for post in projects/posts %}}
-						<a href="{{ post.url }}">
+						<a href="{{ site.baseurl }}{{ post.url }}">
 						<p class="project-preview__title">{{ post.title }}</p>
 						<div class="img__wrapper">
 							<img src="{{ post.thumbnail }}" />
@@ -25,7 +25,7 @@ layout: default
 			{{% endfor %}}
 		</div>
 {% endfor %}
-<a class="category-page-link post-project__link" href="{{ site.url }}/projects/">More Projects</a>
+<a class="category-page-link post-project__link" href="{{ site.url }}{{ site.baseurl }}/projects/">More Projects</a>
 </div>
 
 <div class="home__page-section">
@@ -34,16 +34,16 @@ layout: default
 	<div class="writing-preview">
 		{{% for posts in category %}}
 			{{% for post in writing/posts %}}
-					<h3 class="writing-preview__post-title"><a href="{{ post.url }}" class="writing-preview__post-title__link" >{{ post.title }}</a></h3>
+					<h3 class="writing-preview__post-title"><a href="{{ site.baseurl }}{{ post.url }}" class="writing-preview__post-title__link" >{{ post.title }}</a></h3>
 					<p class="writing-preview__post-excerpt">{{ post.excerpt }}</p>
-					<a href="{{ post.url }}">
+					<a href="{{ site.baseurl }}{{ post.url }}">
 					<span class="writing-preview__post-link">Read More…</span>
 					</a>
 			{{% endfor %}}
 		{{% endfor %}}
 	</div>
 {% endfor %}
-<a class="category-page-link post-writing__link" href="{{ site.url }}/writing/">More Writing</a>
+<a class="category-page-link post-writing__link" href="{{ site.url }}{{ site.baseurl }}/writing/">More Writing</a>
 </div>
 
 <div class="home__page-section">
