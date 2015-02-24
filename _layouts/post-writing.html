@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    
+    <h2 class="post-subtitle">{{% if post.subtitle %}}{{ page.subtitle }}{{% elseif post.team %}}{{ page.team }}{{% endif %}}</h2>
+
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  <div class="post-writing__back">
+  	<a class="post-writing__link" href="{{ site.url }}/writing/">More Writing</a>
+  </div>
+
+</div>

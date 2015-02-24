@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    
+    <h2 class="post-subtitle">Team: {{% if post.subtitle %}}{{ page.subtitle }}{{% elseif post.team %}}{{ page.team }}{{% endif %}}</h2>
+
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  <div class="post-case-study__back">
+  	<a class="post-case-study__link" href="{{ site.url }}/case-studies/">More Case Studies</a>
+  </div>
+
+</div>

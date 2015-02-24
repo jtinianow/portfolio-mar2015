@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h1 class="category__page-heading">{{ page.title }}</h1>
+
+{% for post in site.categories.writing %}
+	<div class="writing-preview">
+		{{% for posts in category %}}
+			{{% for post in writing/posts %}}
+					<h3 class="writing-preview__post-title"><a href="{{ post.url }}" class="writing-preview__post-title__link" >{{ post.title }}</a></h3>
+					<p class="writing-preview__post-excerpt">{{ post.excerpt }}</p>
+					<a href="{{ post.url }}">
+					<span class="writing-preview__post-link">Read More…</span>
+					</a>
+			{{% endfor %}}
+		{{% endfor %}}
+	</div>
+{% endfor %}

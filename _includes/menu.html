@@ -1,0 +1,10 @@
+<a id="nav-primary__menu__toggle" class="menu-icon">Menu</a>
+<nav role="navigation" class="site-nav">
+  <div id="menu-1" class="nav-primary__menu">
+    {% for page in site.pages | sort:weight %}
+      {% if page.title %}
+        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</nav>

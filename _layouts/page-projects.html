@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<h1 class="category__page-heading">{{ page.title }}</h1>
+{% for post in site.categories.projects limit:12 %}
+		<div class="project-page__project-preview">
+			{{% for posts in category %}}
+				{{% for post in projects/posts %}}
+						<a href="{{ post.url }}">
+						<div class="project-page__project-preview__title__wrapper">
+							<p class="project-page__project-preview__title">{{ post.title }}</p>
+						</div>
+						<div class="project-page__img__wrapper">
+							<img src="{{ post.thumbnail }}" />
+						</div>
+						</a>
+				{{% endfor %}}
+			{{% endfor %}}
+		</div>
+{% endfor %}

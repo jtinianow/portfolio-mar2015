@@ -1,0 +1,12 @@
+---
+layout: post-project
+title:  "Pinchflat 2014"
+date:   2014-11-01 21:07:32
+thumbnail: /content/projects/pinchflat2014/pinchflat2014-thumb.jpg
+categories: projects
+---
+Poster designed for for the annual Pinchflat poster exhibition in Columbus, OH.
+
+<div>
+<img src="{{ site.url }}/content/projects/pinchflat2014/pinchflat2014.jpg" />
+</div>

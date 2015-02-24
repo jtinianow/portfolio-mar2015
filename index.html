@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<div class="home">
+
+<div class="home__page-section--fullwidth">
+	<h1 class="home__page-heading">About</h1>
+	<p class="home__page-decription">Jeremy Tinianow is a cross-disciplinary designer with a focus on bridging the gap between digital and physical.</p>
+</div>
+
+<div class="home__page-section--fullwidth">
+<h1 class="home__page-heading">Latest Projects</h1>
+{% for post in site.categories.projects limit:4 %}
+		<div class="project-preview">
+			{{% for posts in category %}}
+				{{% for post in projects/posts %}}
+						<a href="{{ post.url }}">
+						<p class="project-preview__title">{{ post.title }}</p>
+						<div class="img__wrapper">
+							<img src="{{ post.thumbnail }}" />
+						</div>
+						</a>
+				{{% endfor %}}
+			{{% endfor %}}
+		</div>
+{% endfor %}
+<a class="category-page-link post-project__link" href="{{ site.url }}/projects/">More Projects</a>
+</div>
+
+<div class="home__page-section">
+	<h1 class="home__page-heading">Latest Writing</h1>
+{% for post in site.categories.writing limit:2 %}
+	<div class="writing-preview">
+		{{% for posts in category %}}
+			{{% for post in writing/posts %}}
+					<h3 class="writing-preview__post-title"><a href="{{ post.url }}" class="writing-preview__post-title__link" >{{ post.title }}</a></h3>
+					<p class="writing-preview__post-excerpt">{{ post.excerpt }}</p>
+					<a href="{{ post.url }}">
+					<span class="writing-preview__post-link">Read More…</span>
+					</a>
+			{{% endfor %}}
+		{{% endfor %}}
+	</div>
+{% endfor %}
+<a class="category-page-link post-writing__link" href="{{ site.url }}/writing/">More Writing</a>
+</div>
+
+<div class="home__page-section">
+	<h1 class="home__page-heading">contact</h1>
+		<ul>
+			<li><span>E-mail:</span> <a href="mailto:hello@jtinianow.com">hello@jtinianow.com</a></li>
+			<li><span>Telephone:</span> 614.561.2619</li>
+		</ul>
+</div>
+
+</div>
