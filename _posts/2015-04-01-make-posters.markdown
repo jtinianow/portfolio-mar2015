@@ -2,7 +2,7 @@
 layout: post-project
 title:  "MAKE Posters"
 date:   2013-09-01 21:07:32
-thumbnail: http://jtinianow.github.io/portfolio-mar2015/content/projects/make-posters/make-poster-blue-thumb.jpg
+thumbnail: http://hello.jtinianow.com/content/projects/make-posters/make-poster-blue-thumb.jpg
 categories: projects
 ---
 

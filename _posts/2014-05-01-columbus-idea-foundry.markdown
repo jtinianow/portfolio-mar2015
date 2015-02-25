@@ -2,7 +2,7 @@
 layout: post-project
 title:  "Columbus Idea Foundry"
 date:   2015-02-01 21:07:32
-thumbnail: http://jtinianow.github.io/portfolio-mar2015/content/projects/columbus-idea-foundry/CIF-thumb.jpg
+thumbnail: http://hello.jtinianow.com/content/projects/columbus-idea-foundry/CIF-thumb.jpg
 categories: projects
 ---
 Identity for the <a href="http://columbusideafoundry.com" target="_blank">Columbus Idea Foundry,</a> a makerspace and shared workshop in Columbus, OH.

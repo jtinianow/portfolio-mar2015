@@ -2,7 +2,7 @@
 layout: post-project
 title:  "Lettering, Various"
 date:   2014-10-01 21:07:32
-thumbnail: http://jtinianow.github.io/portfolio-mar2015/content/projects/lettering-oct2014/lettering-thumb.jpg
+thumbnail: http://hello.jtinianow.com/content/projects/lettering-oct2014/lettering-thumb.jpg
 categories: projects
 ---
 Custom Lettering.

@@ -2,7 +2,7 @@
 layout: post-project
 title:  "All Tomorrow's Parties"
 date:   2014-02-15 21:07:32
-thumbnail: http://jtinianow.github.io/portfolio-mar2015/content/projects/all-tomorrows-parties/all-tomorrows-parties-thumb.jpg
+thumbnail: http://hello.jtinianow.com/content/projects/all-tomorrows-parties/all-tomorrows-parties-thumb.jpg
 categories: projects
 ---
 

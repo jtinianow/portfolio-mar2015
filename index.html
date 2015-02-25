@@ -15,7 +15,7 @@ layout: default
 		<div class="project-preview">
 			{{% for posts in category %}}
 				{{% for post in projects/posts %}}
-						<a href="{{ site.baseurl }}{{ post.url }}">
+						<a href="{{ site.url }}{{ post.url }}">
 						<p class="project-preview__title">{{ post.title }}</p>
 						<div class="img__wrapper">
 							<img src="{{ post.thumbnail }}" />
@@ -25,7 +25,7 @@ layout: default
 			{{% endfor %}}
 		</div>
 {% endfor %}
-<a class="category-page-link post-project__link" href="{{ site.url }}{{ site.baseurl }}/projects/">More Projects</a>
+<a class="category-page-link post-project__link" href="{{ site.url }}/projects/">More Projects</a>
 </div>
 
 <div class="home__page-section">
@@ -43,7 +43,7 @@ layout: default
 		{{% endfor %}}
 	</div>
 {% endfor %}
-<a class="category-page-link post-writing__link" href="{{ site.url }}{{ site.baseurl }}/writing/">More Writing</a>
+<a class="category-page-link post-writing__link" href="{{ site.url }}/writing/">More Writing</a>
 </div>
 
 <div class="home__page-section">

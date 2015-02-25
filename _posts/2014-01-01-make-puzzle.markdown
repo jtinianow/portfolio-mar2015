@@ -2,7 +2,7 @@
 layout: post-project
 title:  "MAKE Puzzle"
 date:   2014-01-01 21:07:32
-thumbnail: http://jtinianow.github.io/portfolio-mar2015/content/projects/make-puzzle/make-puzzle-thumb.jpg
+thumbnail: http://hello.jtinianow.com/content/projects/make-puzzle/make-puzzle-thumb.jpg
 categories: projects
 ---
 

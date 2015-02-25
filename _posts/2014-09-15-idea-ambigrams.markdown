@@ -2,7 +2,7 @@
 layout: post-project
 title:  "Idea Ambigrams"
 date:   2014-09-15 21:07:32
-thumbnail: http://jtinianow.github.io/portfolio-mar2015/content/projects/idea-ambigram/idea-ambigram-thumb.jpg
+thumbnail: http://hello.jtinianow.com/content/projects/idea-ambigram/idea-ambigram-thumb.jpg
 categories: projects
 ---
 
