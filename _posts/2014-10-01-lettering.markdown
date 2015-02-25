@@ -7,17 +7,17 @@ categories: projects
 ---
 Custom Lettering.
 
-![]({{ site.url }}{{ site.baseurl }}/content/projects/lettering-oct2014/lettering-cheetah-blood.png)
+![]({{ site.url }}/content/projects/lettering-oct2014/lettering-cheetah-blood.png)
 
-![]({{ site.url }}{{ site.baseurl }}/content/projects/lettering-oct2014/lettering-grit.png)
+![]({{ site.url }}/content/projects/lettering-oct2014/lettering-grit.png)
 
-![]({{ site.url }}{{ site.baseurl }}/content/projects/lettering-oct2014/lettering-mission.png)
+![]({{ site.url }}/content/projects/lettering-oct2014/lettering-mission.png)
 
-![]({{ site.url }}{{ site.baseurl }}/content/projects/lettering-oct2014/lettering-bullshit.png)
+![]({{ site.url }}/content/projects/lettering-oct2014/lettering-bullshit.png)
 
-![]({{ site.url }}{{ site.baseurl }}/content/projects/lettering-oct2014/lettering-type-high.png)
+![]({{ site.url }}/content/projects/lettering-oct2014/lettering-type-high.png)
 
-![]({{ site.url }}{{ site.baseurl }}/content/projects/lettering-oct2014/lettering-no-gimmicks.png)
+![]({{ site.url }}/content/projects/lettering-oct2014/lettering-no-gimmicks.png)
 
-![]({{ site.url }}{{ site.baseurl }}/content/projects/lettering-oct2014/lettering-indy-plus-auto.png)
+![]({{ site.url }}/content/projects/lettering-oct2014/lettering-indy-plus-auto.png)
 

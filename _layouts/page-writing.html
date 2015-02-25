@@ -8,7 +8,7 @@ layout: default
 	<div class="writing-preview">
 		{{% for posts in category %}}
 			{{% for post in writing/posts %}}
-					<h3 class="writing-preview__post-title"><a href="{{ site.baseurl }}{{ post.url }}" class="writing-preview__post-title__link" >{{ post.title }}</a></h3>
+					<h3 class="writing-preview__post-title"><a href="{{ site.url }}{{ post.url }}" class="writing-preview__post-title__link" >{{ post.title }}</a></h3>
 					<p class="writing-preview__post-excerpt">{{ post.excerpt }}</p>
 					<a href="{{ site.baseurl }}{{ post.url }}">
 					<span class="writing-preview__post-link">Read More…</span>

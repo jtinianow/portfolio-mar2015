@@ -8,4 +8,4 @@ categories: projects
 
 Poster design
 
-![]({{ site.url }}{{ site.baseurl }}/content/projects/fail-faster/fail-faster.jpg)
+![]({{ site.url }}/content/projects/fail-faster/fail-faster.jpg)

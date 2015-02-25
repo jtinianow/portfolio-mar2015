@@ -7,10 +7,10 @@ categories: projects
 ---
 Identity for the <a href="http://columbusideafoundry.com" target="_blank">Columbus Idea Foundry,</a> a makerspace and shared workshop in Columbus, OH.
 
-![]({{ site.url }}{{ site.baseurl }}/content/projects/columbus-idea-foundry/CIF-logo-1.jpg)
+![]({{ site.url }}/content/projects/columbus-idea-foundry/CIF-logo-1.jpg)
 
-![]({{ site.url }}{{ site.baseurl }}/content/projects/columbus-idea-foundry/CIF-logo-2.jpg)
+![]({{ site.url }}/content/projects/columbus-idea-foundry/CIF-logo-2.jpg)
 
-![]({{ site.url }}{{ site.baseurl }}/content/projects/columbus-idea-foundry/CIF-postcard-1.jpg)
+![]({{ site.url }}/content/projects/columbus-idea-foundry/CIF-postcard-1.jpg)
 
-![]({{ site.url }}{{ site.baseurl }}/content/projects/columbus-idea-foundry/CIF-postcard-2.jpg)
+![]({{ site.url }}/content/projects/columbus-idea-foundry/CIF-postcard-2.jpg)
