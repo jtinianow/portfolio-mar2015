@@ -53,6 +53,7 @@ ul, ol, dl, figure,
  */
 img {
   max-width: 100%;
+  height: auto;
   vertical-align: middle; }
 
 /**
@@ -444,7 +445,7 @@ pre {
   box-sizing: border-box;
   margin-bottom: 1rem;
   overflow: hidden; }
-  @media (min-width: 768px) {
+  @media (min-width: 500px) {
     .project-preview {
       width: 47%;
       margin-right: 3%;

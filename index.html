@@ -6,7 +6,7 @@ layout: default
 
 <div class="home__page-section--fullwidth">
 	<h1 class="home__page-heading">About</h1>
-	<p class="home__page-decription">Jeremy Tinianow is a cross-disciplinary designer with a focus on bridging the gap between digital and physical.</p>
+	<p class="home__page-decription">{{ site.description }}</p>
 </div>
 
 <div class="home__page-section--fullwidth">
@@ -18,7 +18,7 @@ layout: default
 						<a href="{{ site.baseurl }}{{ post.url }}">
 						<p class="project-preview__title">{{ post.title }}</p>
 						<div class="img__wrapper">
-							<img src="{{ post.thumbnail }}" />
+							<img src="{{ post.thumbnail }}" width="514" height="333"/>
 						</div>
 						</a>
 				{{% endfor %}}
