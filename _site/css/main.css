@@ -165,9 +165,6 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
-/**
- * Site header
- */
 .site-header__wrapper {
   width: 100%;
   position: fixed;
@@ -182,9 +179,6 @@ pre {
 .headroom, .headroom--top {
   transition: top 0.3s ease; }
 
-.headroom--unpinned {
-  top: -4rem; }
-
 .headroom--pinned {
   top: 0; }
 
@@ -192,6 +186,10 @@ pre {
   background: #fff;
   border-bottom: 1px solid #e8e8e8;
   z-index: 999; }
+
+.headroom--unpinned {
+  top: -4rem;
+  border-bottom-width: 4px; }
 
 @media (min-width: 768px) {
   .headroom--top {
@@ -286,9 +284,6 @@ pre {
 .menu-icon:hover {
   cursor: pointer; }
 
-/**
- * Site footer
- */
 .site-footer {
   border-top: 1px solid #e8e8e8;
   padding: 2rem 0;
@@ -338,9 +333,6 @@ pre {
     float: none;
     width: -webkit-calc(100% - (2rem / 2));
     width: calc(100% - (2rem / 2)); } }
-/**
- * Page content
- */
 .page-content {
   padding: 6rem 0 1.5em 0; }
   @media (min-width: 768px) {
@@ -370,9 +362,6 @@ pre {
 .image-wrapper {
   margin-bottom: 2em; }
 
-/**
- * Posts
- */
 .post-header {
   margin-bottom: 2rem; }
 
@@ -407,9 +396,6 @@ pre {
 .post-project__link, .post-writing__link, .post-case-study__link {
   font-size: 0.8em; }
 
-/**
- * Pages
- */
 .home__page-section {
   margin-bottom: 2em; }
   @media (min-width: 768px) {

@@ -1,6 +1,4 @@
-/**
- * Site header
- */
+// Site Header
 .site-header__wrapper{
     width: 100%;
     position: fixed;
@@ -14,11 +12,9 @@
         border-bottom: none;
     }
 }
+    // Headroom Styles
 .headroom, .headroom--top{
     transition: top 0.3s ease;
-}
-.headroom--unpinned{
-    top: -4rem;
 }
 
 .headroom--pinned{
@@ -29,6 +25,11 @@
     background: #fff;
     border-bottom: 1px solid $grey-color-light;
     z-index: 999;
+}
+
+.headroom--unpinned{
+    top: -4rem;
+    border-bottom-width: 4px; 
 }
 
 .headroom--top{
@@ -158,9 +159,8 @@
     cursor: pointer;
 }
 
-/**
- * Site footer
- */
+
+// Site Footer
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
@@ -227,10 +227,7 @@
 }
 
 
-
-/**
- * Page content
- */
+// Page Content
 .page-content {
     padding: $spacing-unit * 3 0 1.5em 0;
 
@@ -271,9 +268,7 @@
 }
 
 
-/**
- * Posts
- */
+// Posts
 .post-header {
     margin-bottom: $spacing-unit;
 }
@@ -327,10 +322,7 @@
 }
 
 
-/**
- * Pages
- */
-
+// Pages
  .home__page-section{
     margin-bottom: 2em;
     @media (min-width: 768px){

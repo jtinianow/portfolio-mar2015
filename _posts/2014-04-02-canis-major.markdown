@@ -8,4 +8,4 @@ categories: projects
 
 Poster design
 
-![]({{ site.url }}/content/projects/canis-major/canis-major.jpg)
+![]({{ site.baseurl }}/content/projects/canis-major/canis-major.jpg)

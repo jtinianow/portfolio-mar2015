@@ -7,7 +7,7 @@ layout: default
 		<div class="project-page__project-preview">
 			{{% for posts in category %}}
 				{{% for post in projects/posts %}}
-						<a href="{{ site.url }}{{ post.url }}">
+						<a href="{{ site.baseurl }}{{ post.url }}">
 						<div class="project-page__project-preview__title__wrapper">
 							<p class="project-page__project-preview__title">{{ post.title }}</p>
 						</div>

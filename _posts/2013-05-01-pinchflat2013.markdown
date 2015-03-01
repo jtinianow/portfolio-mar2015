@@ -8,4 +8,4 @@ categories: projects
 
 Poster designed for for the annual Pinchflat poster exhibition in Columbus, OH.
 
-![]({{ site.url }}/content/projects/pinchflat-2013/pinchflat2013.jpg)
+![]({{ site.baseurl }}/content/projects/pinchflat-2013/pinchflat2013.jpg)

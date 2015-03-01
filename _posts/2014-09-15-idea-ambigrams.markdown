@@ -8,4 +8,4 @@ categories: projects
 
 Experimental ambigram of the word "idea" printed with laser-etched linoleum.
 
-![]({{ site.url }}/content/projects/idea-ambigram/idea-ambigram.png)
+![]({{ site.baseurl }}/content/projects/idea-ambigram/idea-ambigram.png)

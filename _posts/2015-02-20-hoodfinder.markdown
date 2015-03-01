@@ -9,5 +9,5 @@ team: Jeremy Tinianow, Alex Eikenbary, Alia Munger, &amp; Mackenzie Hawkings
 Hoodfinder is an app we designed in a workshop with esri.
 
 <div>
-<img src="{{ site.url }}/content/case-studies/hoodfinder-hero.png" />
+<img src="{{ site.baseurl }}/content/case-studies/hoodfinder-hero.png" />
 </div>

@@ -9,7 +9,7 @@ categories: projects
 Promotions for student exhibition at Stanford University.
 
 <div class="image-wrapper">
-<img src="{{ site.url }}/content/projects/all-tomorrows-parties/all-tomorrows-parties-poster.jpg" />
+<img src="{{ site.baseurl }}/content/projects/all-tomorrows-parties/all-tomorrows-parties-poster.jpg" />
 </div>
 
-![]({{ site.url }}/content/projects/all-tomorrows-parties/all-tomorrows-parties-postcard.jpg)
+![]({{ site.baseurl }}/content/projects/all-tomorrows-parties/all-tomorrows-parties-postcard.jpg)

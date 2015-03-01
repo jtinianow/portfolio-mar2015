@@ -8,7 +8,7 @@ categories: projects
 
 Promotional piece designed for the Columbus Idea Foundry. I designed the puzzle from scratch, cut and etched it on the Foundry's laser cutter.
 
-![]({{ site.url }}/content/projects/make-puzzle/make-puzzle-front.jpg)
+![]({{ site.baseurl }}/content/projects/make-puzzle/make-puzzle-front.jpg)
 
 
-![]({{ site.url }}/content/projects/make-puzzle/make-puzzle-back.jpg)
+![]({{ site.baseurl }}/content/projects/make-puzzle/make-puzzle-back.jpg)

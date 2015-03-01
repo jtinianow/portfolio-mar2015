@@ -3,8 +3,8 @@ title: Jeremy Tinianow
 email: hello@jtinianow.com
 description: > # this means to ignore newlines until "baseurl:"
   Jeremy Tinianow is a cross-disciplinary designer with a focus on bridging the gap between digital and physical.
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://hello.jtinianow.com" # the base hostname & protocol for your site
+baseurl: "http://hello.jtinianow.com" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
 
 # Dependencies
 markdown: kramdown
