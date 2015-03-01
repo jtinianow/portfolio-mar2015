@@ -1,0 +1,12 @@
+---
+layout: post-project
+title:  "Make"
+date:   2015-02-28 21:07:32
+thumbnail: http://hello.jtinianow.com/content/projects/make/make-thumb.jpg
+categories: projects
+---
+Custom lettering.
+
+<div>
+<img src="{{ site.baseurl }}/content/projects/make/make.jpg" />
+</div>

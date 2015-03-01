@@ -6,9 +6,26 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Feb 2015 19:43:34 -0700</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2015 19:43:34 -0700</lastBuildDate>
+    <pubDate>Sat, 28 Feb 2015 20:25:26 -0700</pubDate>
+    <lastBuildDate>Sat, 28 Feb 2015 20:25:26 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Make</title>
+        <description>&lt;p&gt;Custom lettering.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;img src=&quot;/content/projects/make/make.jpg&quot; /&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 28 Feb 2015 14:07:32 -0700</pubDate>
+        <link>/projects/2015/02/28/make/</link>
+        <guid isPermaLink="true">/projects/2015/02/28/make/</guid>
+        
+        
+        <category>projects</category>
+        
+      </item>
     
       <item>
         <title>Made From Scratch</title>
@@ -626,21 +643,6 @@ tuned.&lt;/p&gt;
         <pubDate>Wed, 01 Oct 2014 15:07:32 -0600</pubDate>
         <link>/projects/2014/10/01/lettering/</link>
         <guid isPermaLink="true">/projects/2014/10/01/lettering/</guid>
-        
-        
-        <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>Canis Major</title>
-        <description>&lt;p&gt;Poster design&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/content/projects/canis-major/canis-major.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 16 Sep 2014 15:07:32 -0600</pubDate>
-        <link>/projects/2014/09/16/canis-major/</link>
-        <guid isPermaLink="true">/projects/2014/09/16/canis-major/</guid>
         
         
         <category>projects</category>
