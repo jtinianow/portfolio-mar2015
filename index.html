@@ -16,7 +16,6 @@ layout: default
 			{{% for posts in category %}}
 				{{% for post in projects/posts %}}
 						<a href="{{ site.baseurl }}{{ post.url }}">
-							<p class="project-preview__title">{{ post.title }}</p>
 							<img src="{{ post.thumbnail }}" />
 						</a>
 				{{% endfor %}}
