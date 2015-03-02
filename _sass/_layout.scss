@@ -321,6 +321,16 @@
     font-size: 0.8em;
 }
 
+// Writing Posts
+.post-content > *, .post-header, .post-writing__back{
+    max-width: 38em;
+    margin: 0 auto 1em auto;
+}
+
+.post-content, .writing-image--full-width{
+    max-width: 100%;
+    margin-bottom: 1.5em;
+}
 
 // Pages
  .home__page-section{

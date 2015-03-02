@@ -6,6 +6,11 @@ excerpt: "From spring of 2012 until now, I’ve gone from student to professiona
 date:   2015-02-20 21:07:32
 categories: writing
 ---
+
+<div class="writing-image--full-width">
+<img src="{{ site.baseurl }}/content/writing/made-from-scratch-header.png" />
+</div>
+
 From spring of 2012 until now, I’ve gone from student to professional, back to student. Switching between these roles, I’ve become aware of a crucial difference between them. As a professional, I can (and must) be very efficient, always bringing on new projects, always delivering by a hard deadline. As a student, the rules aren’t as strict. I can be slow and make mistakes, and at the end of the day it’s a learning experience.
 
 As a student, I have the freedom to do things the long, hard, stupid way. Don’t get me wrong, I care about the work I do as a student. And it’s not that I enjoy making mistakes, simply that I’ve found a lot of value in the freedom to screw up, throw it away, and start over again.

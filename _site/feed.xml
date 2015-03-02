@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Mar 2015 20:20:39 -0700</pubDate>
-    <lastBuildDate>Sun, 01 Mar 2015 20:20:39 -0700</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2015 09:25:56 -0700</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2015 09:25:56 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -29,7 +29,11 @@
     
       <item>
         <title>Made From Scratch</title>
-        <description>&lt;p&gt;From spring of 2012 until now, I’ve gone from student to professional, back to student. Switching between these roles, I’ve become aware of a crucial difference between them. As a professional, I can (and must) be very efficient, always bringing on new projects, always delivering by a hard deadline. As a student, the rules aren’t as strict. I can be slow and make mistakes, and at the end of the day it’s a learning experience.&lt;/p&gt;
+        <description>&lt;div class=&quot;writing-image--full-width&quot;&gt;
+&lt;img src=&quot;/content/writing/made-from-scratch-header.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;From spring of 2012 until now, I’ve gone from student to professional, back to student. Switching between these roles, I’ve become aware of a crucial difference between them. As a professional, I can (and must) be very efficient, always bringing on new projects, always delivering by a hard deadline. As a student, the rules aren’t as strict. I can be slow and make mistakes, and at the end of the day it’s a learning experience.&lt;/p&gt;
 
 &lt;p&gt;As a student, I have the freedom to do things the long, hard, stupid way. Don’t get me wrong, I care about the work I do as a student. And it’s not that I enjoy making mistakes, simply that I’ve found a lot of value in the freedom to screw up, throw it away, and start over again.&lt;/p&gt;
 

@@ -36,7 +36,7 @@ layout: default
 			{{% for post in writing/posts %}}
 					<h3 class="writing-preview__post-title"><a href="{{ site.baseurl }}{{ post.url }}" class="writing-preview__post-title__link" >{{ post.title }}</a></h3>
 					<p class="writing-preview__post-excerpt">{{ post.excerpt }}</p>
-					<a href="{{ site.baseurl }}/{{ post.url }}">
+					<a href="{{ site.baseurl }}{{ post.url }}">
 					<span class="writing-preview__post-link">Read More…</span>
 					</a>
 			{{% endfor %}}
