@@ -406,6 +406,10 @@ pre {
   max-width: 100%;
   margin-bottom: 1.5em; }
 
+.post-content--writing h3 {
+  font-family: "nudista-web", Helvetia, Arial, sans-serif;
+  color: #00AEF1; }
+
 .post-content--project p {
   margin: 0 0 1em 0; }
 
@@ -465,8 +469,7 @@ pre {
   overflow: hidden; }
   @media (min-width: 500px) {
     .project-preview {
-      width: 47%;
-      margin-right: 3%;
+      width: 50%;
       float: left;
       margin-bottom: 2rem; } }
 
@@ -518,7 +521,7 @@ pre {
   border-bottom: none; }
 
 .writing-preview {
-  margin-bottom: 2rem;
+  margin-bottom: 2.5em;
   margin-left: 1em; }
 
 .writing-preview::before {
@@ -528,13 +531,13 @@ pre {
 
 .writing-preview__post-title {
   display: inline-block;
-  margin-bottom: 0.7em; }
+  margin-bottom: 0.5em; }
 
 .writing-preview__post-title__link {
   border-bottom: none; }
 
 .writing-preview__post-excerpt {
-  margin-bottom: 0.25em; }
+  margin-bottom: 0.5em; }
 
 .writing-preview__post-link {
   color: #828282;

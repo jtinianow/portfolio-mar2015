@@ -10,15 +10,17 @@ layout: default
 </div>
 
 <div class="home__page-section--fullwidth">
-<h1 class="home__page-heading">Latest Projects</h1>
+<h2 class="home__page-heading">Latest Projects</h2>
 {% for post in site.categories.projects limit:4 %}
 		<div class="project-preview">
 			{{% for posts in category %}}
 				{{% for post in projects/posts %}}
 						<a href="{{ site.baseurl }}{{ post.url }}">
-						<p class="project-preview__title">{{ post.title }}</p>
-						<div class="img__wrapper">
-							<img src="{{ post.thumbnail }}" width="514" height="333"/>
+						<div class="project-page__project-preview__title__wrapper">
+							<p class="project-page__project-preview__title">{{ post.title }}</p>
+						</div>
+						<div class="project-page__img__wrapper">
+							<img src="{{ post.thumbnail }}" />
 						</div>
 						</a>
 				{{% endfor %}}
@@ -29,7 +31,7 @@ layout: default
 </div>
 
 <div class="home__page-section">
-	<h1 class="home__page-heading">Latest Writing</h1>
+	<h2 class="home__page-heading">Latest Writing</h2>
 {% for post in site.categories.writing limit:2 %}
 	<div class="writing-preview">
 		{{% for posts in category %}}
@@ -47,7 +49,7 @@ layout: default
 </div>
 
 <div class="home__page-section">
-	<h1 class="home__page-heading">contact</h1>
+	<h2 class="home__page-heading">contact</h2>
 		<ul>
 			<li><span>E-mail:</span> <a href="mailto:hello@jtinianow.com">hello@jtinianow.com</a></li>
 			<li><span>Telephone:</span> 614.561.2619</li>

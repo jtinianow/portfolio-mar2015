@@ -336,6 +336,11 @@
     margin-bottom: 1.5em;
 }
 
+.post-content--writing h3 {
+    font-family: $secondary-font-family;
+    color: $blue;
+}
+
 // Project Posts
 .post-content--project p{
     margin: 0 0 1em 0;
@@ -413,8 +418,7 @@
     overflow: hidden;
 
     @media (min-width: 500px){
-    width:47%;
-    margin-right: 3%;
+    width:50%;
     float: left;
     margin-bottom: $spacing-unit;
     }
@@ -482,7 +486,7 @@
  }
 
 .writing-preview{
-    margin-bottom: 2rem;
+    margin-bottom: 2.5em;
     margin-left: 1em;
 }
 
@@ -494,7 +498,7 @@
 
  .writing-preview__post-title{
     display: inline-block;
-    margin-bottom: 0.7em;
+    margin-bottom: 0.5em;
  }
 
 .writing-preview__post-title__link{
@@ -502,7 +506,7 @@
 }
 
  .writing-preview__post-excerpt{
-    margin-bottom: 0.25em;
+    margin-bottom: 0.5em;
  }
 
  .writing-preview__post-link{

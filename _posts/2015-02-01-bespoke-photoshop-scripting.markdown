@@ -27,7 +27,7 @@ specific to a niche group to merit full-on product development. Regardless of
 the scope, our Bugs Me Lists give us ample room to explore problems and create
 their solutions.
 
-#### I Love/Hate Photoshop
+### I Love/Hate Photoshop
 
 This was the case a couple of weeks ago. I had encountered a really
 insignificant problem that might affect 0.001% of the population, and figured
@@ -37,7 +37,7 @@ platform, or what-have-you. Nonetheless, I sat down yesterday afternoon and
 dove into this tiny insignificant annoyance. It may be a small issue, but
 solving might have some valuable insight.
 
-### …Photoshop Adds “_0000_” To My Filenames
+<h3>…Photoshop Adds &ldquo;_0000_&rdquo; To My Filenames</h3>
 
 “It bugs me that Photoshop adds two underscores and a four-digit sequence to
 names of files generated with the ‘Layer Comps to Files’ script.”
