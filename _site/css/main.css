@@ -392,16 +392,24 @@ pre {
   @media screen and (max-width: 800px) {
     .post-content h4 {
       font-size: 1em; } }
+  .post-content p {
+    max-width: 38em; }
 
 .post-project__link, .post-writing__link, .post-case-study__link {
   font-size: 0.8em; }
 
-.post-content > *, .post-header, .post-writing__back {
+.post-content--writing > *, .post-header, .post-writing__back, .writing-preview, .post-content--project p, .home__page-description {
   max-width: 38em;
   margin: 0 auto 1em auto; }
 
-.post-content, .writing-image--full-width {
+.post-content--writing, .writing-image--full-width {
   max-width: 100%;
+  margin-bottom: 1.5em; }
+
+.post-content--project p {
+  margin: 0 0 1em 0; }
+
+.post-content--project {
   margin-bottom: 1.5em; }
 
 .home__page-section {
@@ -412,6 +420,9 @@ pre {
       margin-right: 5%;
       float: left;
       margin-bottom: 4em; } }
+
+.home__page-description {
+  margin: 0 0 1em 0; }
 
 .home__page-heading, .category__page-heading {
   font-weight: bold;
