@@ -6,7 +6,7 @@ permalink: /about/
 
 <h1 class="home__page-heading">About Jeremy</h1>
 
-Jeremy Tinianow is a cross-disciplinary designer with a focus on bridging the gap between digital and physical. Currently a student at <a href="http://bdw.colorado.edu" target="_blank">Boulder Digital Works,</a> Jeremy is on an ambiguous path with a specific goal: to explore how technology informs design, and vice versa.
+Jeremy Tinianow is a cross-disciplinary designer with a focus on bridging the gap between digital and physical. Currently a student at <a href="http://bdw.colorado.edu" target="_blank">Boulder Digital Works,</a> Jeremy is on an ambiguous path with a specific goal: to explore how technology informs design, and vice versa. Here's my <a href="{{ site.baseurl }}/content/resume-mar2015.pdf" target="_blank">resume</a>.
 
 <h1 class="home__page-heading">About This Site</h1>
 
