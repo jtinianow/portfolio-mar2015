@@ -197,6 +197,19 @@ footer p{
     display: block;
     margin: $spacing-unit auto $spacing-unit / 4 auto;
 }
+.post-content__image--full-size{
+    margin-right: $spacing-unit / 2;
+    margin-left: $spacing-unit / 2;
+}
+.post-content__image--full-size > h2, .post-content__image--full-size > h3, .post-content__image--full-size > p{
+    margin-right: 0;
+    margin-left: 0;
+
+    @media (min-width: 768px) {
+    max-width: 40rem;
+    margin: 0 auto $spacing-unit / 2 auto;
+    }
+}
 // Post Sections
 .post section{
     height: 100%;

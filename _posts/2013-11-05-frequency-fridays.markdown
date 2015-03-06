@@ -38,7 +38,7 @@ tags:
 <p>This approach borrowed color and pattern strategy from the previouse version, but incorporates a more tangible face.</p>
 </section>
 
-<section class="">
+<section class="post-content__image--full-size">
 <h3>Final Promos</h3>
 <p>The finished print pieces represent the execution of the overall strategy, using the same type of illustration on each with varying personalities for every season.</p>
 <img src="{{ site.baseurl }}/content/projects/frequency-fridays/freq-fri-final-fall.jpg" />

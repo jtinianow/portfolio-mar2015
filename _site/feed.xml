@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Mar 2015 17:38:56 -0700</pubDate>
-    <lastBuildDate>Thu, 05 Mar 2015 17:38:56 -0700</lastBuildDate>
+    <pubDate>Thu, 05 Mar 2015 17:49:02 -0700</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2015 17:49:02 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -90,7 +90,7 @@
 &lt;p&gt;This approach borrowed color and pattern strategy from the previouse version, but incorporates a more tangible face.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;&quot;&gt;
+&lt;section class=&quot;post-content__image--full-size&quot;&gt;
 &lt;h3&gt;Final Promos&lt;/h3&gt;
 &lt;p&gt;The finished print pieces represent the execution of the overall strategy, using the same type of illustration on each with varying personalities for every season.&lt;/p&gt;
 &lt;img src=&quot;/content/projects/frequency-fridays/freq-fri-final-fall.jpg&quot; /&gt;
@@ -132,7 +132,7 @@
 &lt;p&gt;I was offered use of the Foundry&#39;s CO2 laser to create the promotion, and jumped at the opportunity to play with such a high-tech piece of equipment. After designing the puzzle, I cut and etched it with the laser.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;post-content__image--full-width&quot;&gt;
+&lt;section class=&quot;post-content__image--full-size&quot;&gt;
 &lt;img src=&quot;/content/projects/make-puzzle/make-puzzle-cut.jpg&quot; /&gt;
 &lt;p class=&quot;caption&quot;&gt;The laser cut and etched puzzle.&lt;/p&gt;
 &lt;p&gt;After cutting the puzzle, the pieces were reassembled and composed for the final promotion.&lt;/p&gt;
