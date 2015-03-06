@@ -35,7 +35,7 @@ tags:
 <p>After a round of reviews, we decided to axe the gear-focues approach for the illustration, and experiment instead with robots. The goal was to emphasize the event's tech focus over the musical aspect.</p>
 <img src="{{ site.baseurl }}/content/projects/frequency-fridays/freq-fri-process-3.jpg" />
 <p class="caption">The refined concept draft.</p>
-<p>This approach borrowed color and pattern strategy from the previouse version, but incorporates a more tangible face.</p>
+<p>This approach borrowed color and pattern strategy from the previous version, but incorporates a more tangible face.</p>
 </section>
 
 <section class="post-content__image--full-size">
