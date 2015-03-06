@@ -395,8 +395,9 @@ footer p {
 .post-nav__seq a {
   transition: color 0.2s ease; }
 
-.post-nav__seq a:hover {
-  color: #444; }
+@media (min-width: 768px) {
+  .post-nav__seq a:hover {
+    color: #444; } }
 
 .post-nav__link, .post-nav__archive {
   display: inline-block;
@@ -414,11 +415,13 @@ footer p {
   display: flex;
   line-height: 2.5rem;
   width: 80%;
-  font-style: italic; }
+  font-style: italic;
+  text-align: center; }
 
 .post-nav--project__link {
   text-align: center;
   display: inline-block;
+  width: auto;
   margin: 0 auto; }
 
 .page-content--body h2, .page--home__label, .section--home__header, .page-header--work, .home-links__label {
@@ -476,14 +479,16 @@ p.project-preview__tags, p.project-preview__client {
   color: #757575;
   font-style: italic; }
 
-.project-preview:hover .project-preview__info {
-  display: block; }
+@media (min-width: 768px) {
+  .project-preview:hover .project-preview__info {
+    display: block; } }
 
 .project-preview img {
   transition: opacity 0.2s ease; }
 
-.project-preview:hover img {
-  opacity: 0.1; }
+@media (min-width: 768px) {
+  .project-preview:hover img {
+    opacity: 0.1; } }
 
 span.home-links__link {
   display: inline-block; }
@@ -549,8 +554,9 @@ p.home-links__link, span.home-links__link {
 .page--home__description a, .home-links__list a {
   transition: background 0.2s ease; }
 
-.page--home__description a:hover, .home-links__list a:hover {
-  background: #E9F5FA; }
+@media (min-width: 768px) {
+  .page--home__description a:hover, .home-links__list a:hover {
+    background: #E9F5FA; } }
 
 /**
  * Syntax highlighting styles

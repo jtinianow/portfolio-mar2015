@@ -4,10 +4,10 @@
     <title>Jeremy Tinianow</title>
     <description>Jeremy Tinianow is a cross-disciplinary designer with a focus on bridging the gap between digital and physical.
 </description>
-    <link>http://hello.jtinianow.com/</link>
-    <atom:link href="http://hello.jtinianow.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Mar 2015 17:09:45 -0700</pubDate>
-    <lastBuildDate>Thu, 05 Mar 2015 17:09:45 -0700</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 05 Mar 2015 17:30:28 -0700</pubDate>
+    <lastBuildDate>Thu, 05 Mar 2015 17:30:28 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -46,8 +46,8 @@
 &lt;/section&gt;
 </description>
         <pubDate>Sat, 28 Feb 2015 14:07:32 -0700</pubDate>
-        <link>http://hello.jtinianow.com/projects/2015/02/28/make/</link>
-        <guid isPermaLink="true">http://hello.jtinianow.com/projects/2015/02/28/make/</guid>
+        <link>/projects/2015/02/28/make/</link>
+        <guid isPermaLink="true">/projects/2015/02/28/make/</guid>
         
         <category>Lettering</category>
         
@@ -100,8 +100,8 @@
 &lt;/section&gt;
 </description>
         <pubDate>Tue, 05 Nov 2013 14:07:32 -0700</pubDate>
-        <link>http://hello.jtinianow.com/projects/2013/11/05/frequency-fridays/</link>
-        <guid isPermaLink="true">http://hello.jtinianow.com/projects/2013/11/05/frequency-fridays/</guid>
+        <link>/projects/2013/11/05/frequency-fridays/</link>
+        <guid isPermaLink="true">/projects/2013/11/05/frequency-fridays/</guid>
         
         <category>Visual Design</category>
         
@@ -146,8 +146,8 @@
 &lt;/section&gt;
 </description>
         <pubDate>Mon, 01 Jul 2013 15:07:32 -0600</pubDate>
-        <link>http://hello.jtinianow.com/projects/2013/07/01/make-puzzle/</link>
-        <guid isPermaLink="true">http://hello.jtinianow.com/projects/2013/07/01/make-puzzle/</guid>
+        <link>/projects/2013/07/01/make-puzzle/</link>
+        <guid isPermaLink="true">/projects/2013/07/01/make-puzzle/</guid>
         
         <category>Visual Design, </category>
         
@@ -216,8 +216,8 @@
 &lt;/section&gt;
 </description>
         <pubDate>Sun, 01 Jul 2012 15:07:32 -0600</pubDate>
-        <link>http://hello.jtinianow.com/projects/2012/07/01/columbus-idea-foundry/</link>
-        <guid isPermaLink="true">http://hello.jtinianow.com/projects/2012/07/01/columbus-idea-foundry/</guid>
+        <link>/projects/2012/07/01/columbus-idea-foundry/</link>
+        <guid isPermaLink="true">/projects/2012/07/01/columbus-idea-foundry/</guid>
         
         <category>Art Direction, </category>
         

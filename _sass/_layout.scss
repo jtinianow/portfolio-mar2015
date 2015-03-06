@@ -286,7 +286,10 @@ footer p{
     transition: color 0.2s ease;
 }
 .post-nav__seq a:hover {
+
+    @media (min-width: 768px) {
     color: $text-color;
+    }
 }
 .post-nav__link, .post-nav__archive{
     display: inline-block;
@@ -305,10 +308,12 @@ footer p{
     line-height: $spacing-unit * 1.25;
     width: 80%;
     font-style: italic;
+    text-align: center;
 }
 .post-nav--project__link {
     text-align: center;
     display: inline-block;
+    width: auto;
     margin: 0 auto;
 }
 
@@ -379,13 +384,19 @@ p.project-preview__tags, p.project-preview__client {
     font-style: italic;
 }
 .project-preview:hover .project-preview__info{
-    display: block;
+    
+    @media (min-width: 768px) {
+        display: block;
+    }
 }
 .project-preview img{
     transition: opacity 0.2s ease;
 }
 .project-preview:hover img{
+
+    @media (min-width: 768px) {
     opacity: 0.1;
+    }
 }
 span.home-links__link {
     display: inline-block;
@@ -461,5 +472,8 @@ p.home-links__link, span.home-links__link {
     transition: background 0.2s ease;
 }
 .page--home__description a:hover, .home-links__list a:hover{
+    
+    @media (min-width: 768px) {
     background: #E9F5FA;
+    }
 }
