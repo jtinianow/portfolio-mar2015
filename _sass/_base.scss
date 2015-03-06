@@ -85,17 +85,10 @@ ul, ol {
 }
 
 li {
-    margin-left: 1em;
     > ul,
     > ol {
          margin-bottom: 0;
     }
-}
-
-li::before{
-    content: "\2014";
-    position: absolute;
-    margin-left: -1em;
 }
 
 
