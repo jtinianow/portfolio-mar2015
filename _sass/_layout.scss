@@ -15,7 +15,7 @@
     font-family: $secondary-font-family;
     font-weight: 400;
     letter-spacing: 1px;
-    font-size: 0.8em;
+    font-size: 0.7em;
     line-height: $spacing-unit * 2;
     text-transform: uppercase;
     min-height: $spacing-unit * 2;
@@ -87,7 +87,7 @@
     top: $spacing-unit * 2;
     width: 100%;
 
-    background: #FFFFFF;
+    background: $background-color;
 
     @media (min-width: 768px) {
         position: relative;
@@ -135,8 +135,18 @@
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
     background: $grey-color-light;
-}
+    text-align: center;
 
+    @media (min-width: 768px) {
+        text-align: left;
+    }
+}
+.site-footer__wrapper{
+
+    @media (min-width: 768px) {
+        display: flex;
+    }
+}
 .footer-heading {
     margin-bottom: $spacing-unit / 2;
 }
@@ -154,6 +164,19 @@
 }
 footer p{
     margin-bottom: 0;
+}
+.site-footer__info{
+    margin-bottom: $spacing-unit / 2;
+
+    @media (min-width: 768px) {
+        width: 80%;
+    }
+}
+.site-footer__contact {
+
+    @media (min-width: 768px) {
+        width: 20%;
+    }
 }
 
 
@@ -347,14 +370,9 @@ footer p{
 
 
 // Homepage
-.page--home > *{
-    margin-bottom: $spacing-unit * 2;
 
-    @media (min-width: 768px) {
-        margin-bottom: $spacing-unit * 4;
-    }
-}
 .section--home--fullwidth{
+    padding-top: $spacing-unit * 2;
     clear: both;
 }
 .work-previews--homepage, .page--work__previews {

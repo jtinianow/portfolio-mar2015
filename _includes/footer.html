@@ -1,10 +1,13 @@
 <footer class="site-footer">
 
   <div class="wrapper site-footer__wrapper">
-
-  	<a href="mailto:{{ site.email }}">{{ site.email }}</a>
-  	<p>614 561.2619</p>
-
+	<div class="site-footer__info">
+		<p>Jeremy Tinianow. No Rights Reserved. Feel free to share/remix/etc…</p>
+	</div>
+	<div class="site-footer__contact">
+	  	<a href="mailto:{{ site.email }}">{{ site.email }}</a>
+	  	<p>614 561.2619</p>
+	</div>
   </div>
 
 </footer>
@@ -15,3 +18,8 @@
   <script src="{{ "/assets/js/mobile-menu.js" | prepend: site.baseurl }}"></script>
 
 <script>$("#header").headroom();</script>
+<script>
+	$(".nav-primary__page-link").click(function() {
+		$(".nav-primary__menu--visible").attr('class', 'nav-primary__menu');
+	});
+</script>

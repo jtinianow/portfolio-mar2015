@@ -52,6 +52,14 @@
   </div>
 </nav> -->
 
+<a id="nav-primary__menu-toggle" class="nav-primary__menu-toggle">Menu</a>
+<nav role="navigation" class="nav-primary">
+  <div id="menu-1" class="nav-primary__menu">
+    <a class="nav-primary__page-link" href="/#work">Work</a>
+    <a class="nav-primary__page-link" href="">About</a>
+  </div>
+</nav>
+
     </div>
 
   </header>
@@ -108,7 +116,7 @@
 		</div>
 	</section>
 
-	<section class="page--home__links page--home__links__contact">
+	<section class="page--home__links page--home__links__contact" id="contact">
 	<div class="home-links__wrapper">
 	<h3 class="home-links__label">Contact</h3>
 	<ul class="home-links__list">
@@ -226,10 +234,13 @@
     <footer class="site-footer">
 
   <div class="wrapper site-footer__wrapper">
-
-  	<a href="mailto:hello@jtinianow.com">hello@jtinianow.com</a>
-  	<p>614 561.2619</p>
-
+	<div class="site-footer__info">
+		<p>Jeremy Tinianow. No Rights Reserved. Feel free to share/remix/etc…</p>
+	</div>
+	<div class="site-footer__contact">
+	  	<a href="mailto:hello@jtinianow.com">hello@jtinianow.com</a>
+	  	<p>614 561.2619</p>
+	</div>
   </div>
 
 </footer>
@@ -240,6 +251,11 @@
   <script src="/assets/js/mobile-menu.js"></script>
 
 <script>$("#header").headroom();</script>
+<script>
+	$(".nav-primary__page-link").click(function() {
+		$(".nav-primary__menu--visible").attr('class', 'nav-primary__menu');
+	});
+</script>
 
   </body>
 

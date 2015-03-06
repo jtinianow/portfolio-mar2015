@@ -184,7 +184,7 @@ pre {
   font-family: "nudista-web", Helvetia, Arial, sans-serif;
   font-weight: 400;
   letter-spacing: 1px;
-  font-size: 0.8em;
+  font-size: 0.7em;
   line-height: 4rem;
   text-transform: uppercase;
   min-height: 4rem;
@@ -237,7 +237,7 @@ pre {
   left: 0;
   top: 4rem;
   width: 100%;
-  background: #FFFFFF; }
+  background: #FAFAFA; }
   @media (min-width: 768px) {
     .nav-primary {
       position: relative;
@@ -273,7 +273,15 @@ pre {
 .site-footer {
   border-top: 1px solid #e8e8e8;
   padding: 2rem 0;
-  background: #e8e8e8; }
+  background: #e8e8e8;
+  text-align: center; }
+  @media (min-width: 768px) {
+    .site-footer {
+      text-align: left; } }
+
+@media (min-width: 768px) {
+  .site-footer__wrapper {
+    display: flex; } }
 
 .footer-heading {
   margin-bottom: 1rem; }
@@ -289,6 +297,16 @@ pre {
 
 footer p {
   margin-bottom: 0; }
+
+.site-footer__info {
+  margin-bottom: 1rem; }
+  @media (min-width: 768px) {
+    .site-footer__info {
+      width: 80%; } }
+
+@media (min-width: 768px) {
+  .site-footer__contact {
+    width: 20%; } }
 
 .page-wrapper {
   padding-top: 2rem;
@@ -445,13 +463,8 @@ footer p {
   display: inline-block;
   margin-bottom: 1rem; }
 
-.page--home > * {
-  margin-bottom: 4rem; }
-  @media (min-width: 768px) {
-    .page--home > * {
-      margin-bottom: 8rem; } }
-
 .section--home--fullwidth {
+  padding-top: 4rem;
   clear: both; }
 
 .work-previews--homepage, .page--work__previews {
