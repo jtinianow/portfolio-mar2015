@@ -270,9 +270,10 @@ footer p{
     padding: $spacing-unit * 2 0;
     margin-bottom: 0;
     font-family: $secondary-font-family;
+    text-align: center;
 
     @media (min-width: 768px) {
-        padding: $spacing-unit * 7 0;
+        padding: $spacing-unit * 5 0;
     }
 }
 .post-content img{
@@ -296,9 +297,10 @@ footer p{
 }
 .post-title{
     padding-top: 0;
-    font-size: 2.5em;
-    line-height: 1.25;
+    font-size: 3.5em;
+    line-height: 1;
     font-weight: 300;
+    margin-bottom: $spacing-unit;
 }
 .post-meta{
     font-style: italic;
@@ -416,6 +418,12 @@ p.project-preview__tags, p.project-preview__client {
 .project-preview__tags{
     color: darken($grey-color, 5%);
     font-style: italic;
+}
+.project__tags{
+    font-size: 0.8em;
+    font-weight: 300;
+    font-style: italic;
+    color: inherit;
 }
 .project-preview:hover .project-preview__info{
     

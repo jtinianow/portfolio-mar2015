@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Mar 2015 08:45:21 -0700</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2015 08:45:21 -0700</lastBuildDate>
+    <pubDate>Fri, 06 Mar 2015 15:24:47 -0700</pubDate>
+    <lastBuildDate>Fri, 06 Mar 2015 15:24:47 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -17,6 +17,8 @@
 	&lt;h1 class=&quot;post-title post-title--project&quot;&gt;Make&lt;/h1&gt;
 	&lt;!-- &lt;p class=&quot;post-meta post-meta--project&quot;&gt;Feb 2015&lt;/p&gt;
 	&lt;h2 class=&quot;post-header__client&quot;&gt;&lt;span class=&quot;post-header__info post-header__info--client&quot;&gt;Client: &lt;/span&gt;Personal&lt;/h2&gt; --&gt;
+	&lt;!-- &lt;p class=&quot;project-preview__client&quot;&gt;Personal&lt;/p&gt; --&gt;
+	&lt;p class=&quot;project__tags&quot;&gt;Lettering&lt;/p&gt;
 &lt;/header&gt;
 &lt;/section&gt;
 
@@ -63,6 +65,8 @@
 	&lt;h1 class=&quot;post-title post-title--project&quot;&gt;Frequency Fridays&lt;/h1&gt;
 	&lt;!-- &lt;p class=&quot;post-meta post-meta--project&quot;&gt;Nov 2013&lt;/p&gt;
 	&lt;h2 class=&quot;post-header__client&quot;&gt;&lt;span class=&quot;post-header__info post-header__info--client&quot;&gt;Client: &lt;/span&gt;Fuse Factory&lt;/h2&gt; --&gt;
+	&lt;!-- &lt;p class=&quot;project-preview__client&quot;&gt;Fuse Factory&lt;/p&gt; --&gt;
+	&lt;p class=&quot;project__tags&quot;&gt;Visual Design&lt;/p&gt;
 &lt;/header&gt;
 &lt;/section&gt;
 
@@ -117,6 +121,8 @@
 	&lt;h1 class=&quot;post-title post-title--project&quot;&gt;MAKE Puzzle&lt;/h1&gt;
 	&lt;!-- &lt;p class=&quot;post-meta post-meta--project&quot;&gt;Jul 2013&lt;/p&gt;
 	&lt;h2 class=&quot;post-header__client&quot;&gt;&lt;span class=&quot;post-header__info post-header__info--client&quot;&gt;Client: &lt;/span&gt;Columbus Idea Foundry&lt;/h2&gt; --&gt;
+	&lt;!-- &lt;p class=&quot;project-preview__client&quot;&gt;Columbus Idea Foundry&lt;/p&gt; --&gt;
+	&lt;p class=&quot;project__tags&quot;&gt;Visual Design, Laser Cutting&lt;/p&gt;
 &lt;/header&gt;
 &lt;/section&gt;
 
@@ -165,6 +171,8 @@
 	&lt;h1 class=&quot;post-title post-title--project&quot;&gt;Columbus Idea Foundry Brand&lt;/h1&gt;
 	&lt;!-- &lt;p class=&quot;post-meta post-meta--project&quot;&gt;Jul 2012&lt;/p&gt;
 	&lt;h2 class=&quot;post-header__client&quot;&gt;&lt;span class=&quot;post-header__info post-header__info--client&quot;&gt;Client: &lt;/span&gt;Columbus Idea Foundry&lt;/h2&gt; --&gt;
+	&lt;!-- &lt;p class=&quot;project-preview__client&quot;&gt;Columbus Idea Foundry&lt;/p&gt; --&gt;
+	&lt;p class=&quot;project__tags&quot;&gt;Art Direction, Visual Design&lt;/p&gt;
 &lt;/header&gt;
 &lt;/section&gt;
 

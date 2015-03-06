@@ -373,10 +373,11 @@ footer p {
 .post-header {
   padding: 4rem 0;
   margin-bottom: 0;
-  font-family: "nudista-web", Helvetia, Arial, sans-serif; }
+  font-family: "nudista-web", Helvetia, Arial, sans-serif;
+  text-align: center; }
   @media (min-width: 768px) {
     .post-header {
-      padding: 14rem 0; } }
+      padding: 10rem 0; } }
 
 .post-content img {
   max-width: 100%;
@@ -399,9 +400,10 @@ footer p {
 
 .post-title {
   padding-top: 0;
-  font-size: 2.5em;
-  line-height: 1.25;
-  font-weight: 300; }
+  font-size: 3.5em;
+  line-height: 1;
+  font-weight: 300;
+  margin-bottom: 2rem; }
 
 .post-meta {
   font-style: italic; }
@@ -500,6 +502,12 @@ p.project-preview__tags, p.project-preview__client {
 .project-preview__tags {
   color: #757575;
   font-style: italic; }
+
+.project__tags {
+  font-size: 0.8em;
+  font-weight: 300;
+  font-style: italic;
+  color: inherit; }
 
 @media (min-width: 768px) {
   .project-preview:hover .project-preview__info {
