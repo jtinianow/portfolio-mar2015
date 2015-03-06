@@ -8,6 +8,7 @@ honeymoon phase of “creative work,” and this photographer was prattling on
 about this, that, and the other…"
 date:   2015-01-31 21:07:32
 categories: writing
+published: false
 ---
 It was hot. And really muggy. In August, one becomes painfully aware that most
 of central Ohio used to be a swamp.

@@ -1,9 +1,11 @@
 ---
 layout: post-project
 title:  "Idea Ambigrams"
+client: "Personal"
 date:   2014-09-15 21:07:32
-thumbnail: http://hello.jtinianow.com/content/projects/idea-ambigram/idea-ambigram-thumb.jpg
+thumbnail: /content/projects/idea-ambigram/idea-ambigram-thumb.jpg
 categories: projects
+published: false
 ---
 
 Experimental ambigram of the word "idea" printed with laser-etched linoleum.

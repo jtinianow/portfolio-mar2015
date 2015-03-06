@@ -1,9 +1,11 @@
 ---
 layout: post-project
 title:  "All Tomorrow's Parties"
+client: "Stanfor University Department of Art"
 date:   2014-02-15 21:07:32
-thumbnail: http://hello.jtinianow.com/content/projects/all-tomorrows-parties/all-tomorrows-parties-thumb.jpg
+thumbnail: /content/projects/all-tomorrows-parties/all-tomorrows-parties-thumb.jpg
 categories: projects
+published: false
 ---
 
 Promotions for student exhibition at Stanford University.

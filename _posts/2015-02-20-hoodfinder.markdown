@@ -5,6 +5,7 @@ date:   2015-01-27 21:07:32
 categories: case-studies
 thumbnail: /content/case-studies/hoodfinder-hero.png
 team: Jeremy Tinianow, Alex Eikenbary, Alia Munger, &amp; Mackenzie Hawkings
+published: false
 ---
 Hoodfinder is an app we designed in a workshop with esri.
 

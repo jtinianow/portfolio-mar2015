@@ -1,9 +1,11 @@
 ---
 layout: post-project
 title:  "Fail Faster"
+client: "Skreened"
 date:   2014-11-02 21:07:32
-thumbnail: http://hello.jtinianow.com/content/projects/fail-faster/fail-faster-thumb.jpg
+thumbnail: /content/projects/fail-faster/fail-faster-thumb.jpg
 categories: projects
+published: false
 ---
 
 Poster design

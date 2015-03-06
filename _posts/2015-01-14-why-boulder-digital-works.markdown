@@ -6,6 +6,7 @@ excerpt: "Just before Thanksgiving 2014, I made the decision to leave a comforta
 enjoyable job in my hometown, and go back to school…"
 date:   2015-01-14 21:07:32
 categories: writing
+published: false
 ---
 
 ## Part 1

@@ -1,9 +1,9 @@
-<a id="nav-primary__menu__toggle" class="menu-icon">Menu</a>
-<nav role="navigation" class="site-nav">
+<a id="nav-primary__menu-toggle" class="nav-primary__menu-toggle">Menu</a>
+<nav role="navigation" class="nav-primary">
   <div id="menu-1" class="nav-primary__menu">
     {% for page in site.pages | sort:weight %}
       {% if page.title %}
-        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        <a class="nav-primary__page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
       {% endif %}
     {% endfor %}
   </div>

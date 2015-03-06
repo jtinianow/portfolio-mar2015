@@ -17,19 +17,15 @@ body {
     font-family: $base-font-family;
     font-size: $base-font-size * 0.8;
     line-height: $base-line-height;
-    font-weight: 300;
+    font-weight: 400;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
 
     @media (min-width: 768px) {
         font-size: $base-font-size;
     }
-}
-
-p{
-    // max-width: 38em;
-    line-height: 1.65;
 }
 
 p img:before, p img:after{
@@ -38,21 +34,20 @@ p img:before, p img:after{
 }
 
 hr{
-    margin-bottom: 1rem;
+    margin-bottom: $spacing-unit / 2;
 }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
+h1, h2, h3, h4, h5, h6{
+    margin-bottom: $spacing-unit / 4;
+}
+
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: $spacing-unit / 2;
-
-    @media (min-width: 768px) {
-        margin-bottom: $spacing-unit;
-    }
+    margin-bottom: $spacing-unit;
 }
 
 
@@ -109,7 +104,7 @@ li::before{
  */
 h1, h2, h3, h4, h5, h6 {
     font-size: 1em;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 
@@ -118,11 +113,23 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $text-color;
+    color: inherit;
     text-decoration: none;
-    border-bottom: 1px dotted $text-color;
 }
 
+p a {
+    background-color: lighten($grey-color, 45%);
+}
+
+/**
+ * Captions
+ */
+ .caption{
+    font-size: 75%;
+    font-style: italic;
+    text-align: center;
+    color: lighten($grey-color, 5%);
+ }
 
 
 /**

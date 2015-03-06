@@ -1,9 +1,11 @@
 ---
 layout: post-project
 title:  "Lettering, Various"
+client: "Personal"
 date:   2014-10-01 21:07:32
-thumbnail: http://hello.jtinianow.com/content/projects/lettering-oct2014/lettering-thumb.jpg
+thumbnail: /content/projects/lettering-oct2014/lettering-thumb.jpg
 categories: projects
+published: false
 ---
 Custom Lettering.
 

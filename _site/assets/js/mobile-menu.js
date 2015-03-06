@@ -7,5 +7,5 @@ function changeClass() {
 
 
 window.onload = function(){
-	document.getElementById("nav-primary__menu__toggle").addEventListener( 'click' , changeClass );
+	document.getElementById("nav-primary__menu-toggle").addEventListener( 'click' , changeClass );
 }

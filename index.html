@@ -2,30 +2,106 @@
 layout: default
 ---
 
-<div class="home">
+<div class="page page--home">
 
-<div class="home__page-section--fullwidth">
-	<h1 class="home__page-heading">About</h1>
-	<p class="home__page-description">{{ site.description }}</p>
-</div>
 
-<div class="home__page-section--fullwidth">
-<h2 class="home__page-heading">Latest Projects</h2>
-{% for post in site.categories.projects limit:4 %}
-		<div class="project-preview">
-			{{% for posts in category %}}
-				{{% for post in projects/posts %}}
-						<a href="{{ site.baseurl }}{{ post.url }}">
-							<img src="{{ post.thumbnail }}" />
-						</a>
-				{{% endfor %}}
-			{{% endfor %}}
+<div class="page--home__header">
+	<section class="page--home__description">
+	<span class="page--home__label">Hello.</span>
+	<h1>
+	<p>My name&rsquo;s Jeremy. I am a cross-disciplinary designer with a focus on bridging the gap between digital and physical. Currently a student at <a href="http://bdw.colorado.edu" target="_blank">Boulder Digital Works,</a> I'm on an ambiguous path with a specific goal: to explore how technology informs design, and vice versa.</p>
+	</h1>
+	<p>I'm always on the lookout for new opportunities &amp; challenges. Don&rsquo;t be shy.</p>
+	<a class="page--home__contact-link" href="mailto:hello@jtinianow.com">Get In Touch</a>
+	</section>
+
+	<section class="page--home__links">
+		<div class="home-links__wrapper">
+			<h3 class="home-links__label">Experience</h3>
+			<ul class="home-links__list">
+				<li class="home-links__item">
+					<span class="home-links__sub">Art Director</span>
+					<p class="home-links__link">Skreened</p>
+					<p class="home-links__link">2014&ndash;2015</p>
+				</li>
+				<li class="home-links__item">
+					<span class="home-links__sub">Art Director</span>
+					<p class="home-links__link">Columbus Idea Foundry</p>
+					<p class="home-links__link">2012&ndash;2014</p>
+				</li>
+				<li class="home-links__item">
+					<span class="home-links__sub"><a href="{{ site.baseurl }}/content/resume-mar2015.pdf" target="_blank">Full Resume</a></span>
+				</li>
+			</ul>
 		</div>
-{% endfor %}
-<a class="category-page-link post-project__link" href="{{ site.baseurl }}/projects/">More Projects</a>
+		<div class="home-links__wrapper">
+			<h3 class="home-links__label">Skills</h3>
+			<ul class="home-links__list">
+				<li class="home-links__item">
+					<span class="home-links__sub">Visual Design</span>
+				</li>
+				<li class="home-links__item">
+					<span class="home-links__sub">Art Direction</span>
+				</li>
+				<li class="home-links__item">
+					<span class="home-links__sub">Frontend Dev</span>
+				</li>
+			</ul>
+		</div>
+	</section>
+
+	<section class="page--home__links page--home__links__contact">
+	<div class="home-links__wrapper">
+	<h3 class="home-links__label">Contact</h3>
+	<ul class="home-links__list">
+		<li class="home-links__item">
+			<span class="home-links__sub"><a href="mailto:hello@jtinianow.com">hello@jtinianow.com</a></span>
+		</li>
+		<li class="home-links__item">
+			<span class="home-links__sub">614 561 2619</span>
+		</li>
+	</ul>
+	</div>
+	<div class="home-links__wrapper">
+	<h3 class="home-links__label">Elsewhere</h3>
+	<ul class="home-links__list">
+		<li class="home-links__item">
+			<a href="https://www.behance.net/jtinianow" target="_blank"><span class="home-links__sub">Behance</span></a>
+		</li>
+		<li class="home-links__item">
+			<a href="https://medium.com/@jtinianow" target="_blank"><span class="home-links__sub">Medium</span></a>
+		</li>
+	</ul>
+	</div>
+	</section>
 </div>
 
-<div class="home__page-section">
+<section class="section--home--fullwidth" id="work">
+<h2 class="section--home__header">Latest Work</h2>
+<div class="work-previews--homepage">
+	{% for post in site.categories.projects limit:6 %}
+			<div class="project-preview">
+				{{% for posts in category %}}
+					{{% for post in projects/posts %}}
+							<a href="{{ site.baseurl }}{{ post.url }}">
+								<img clsas="project-preview__img" src="{{ post.thumbnail | prepend: site.baseurl }}" />
+								<div class="project-preview__info">
+									<h3 class="project-preview__title">{{ post.title }}</h3>
+									<p class="project-preview__client">{{ post.client }}</p>
+									<p class="project-preview__tags">{{ post.tags }}</p>
+								</div>
+							</a>
+					{{% endfor %}}
+				{{% endfor %}}
+			</div>
+	{% endfor %}
+</div>
+<!-- <a class="category-page-link post-project__link" href="{{ site.baseurl }}/work/">More Work</a> -->
+</section>
+
+
+
+<!-- <div class="home__page-section">
 	<h2 class="home__page-heading">Latest Writing</h2>
 {% for post in site.categories.writing limit:2 %}
 	<div class="writing-preview">
@@ -41,14 +117,14 @@ layout: default
 	</div>
 {% endfor %}
 <a class="category-page-link post-writing__link" href="{{ site.baseurl }}/writing/">More Writing</a>
-</div>
+</div> -->
 
-<div class="home__page-section">
-	<h2 class="home__page-heading">contact</h2>
+<!-- <section class="section--home">
+	<h2 class="section--home__header">Contact</h2>
 		<ul>
 			<li><span>E-mail:</span> <a href="mailto:hello@jtinianow.com">hello@jtinianow.com</a></li>
 			<li><span>Telephone:</span> 614.561.2619</li>
 		</ul>
-</div>
+</section> -->
 
 </div>

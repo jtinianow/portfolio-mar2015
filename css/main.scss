@@ -6,17 +6,17 @@
 
 
 // Our variables
-$base-font-family: Georgia, Times, serif;
+$base-font-family: "garamond-premier-pro", Georgia, Times, serif;
 $secondary-font-family: "nudista-web", Helvetia, Arial, sans-serif;
 $tertiary-font-family: "acta-poster", Georgia, Times, serif;
 $base-font-size:   21px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.65;
 
 $spacing-unit:     2rem;
 
 $text-color:       #444;
-$background-color: #FEFEFE;
+$background-color: #FAFAFA;
 $brand-color:      #2a7ae2;
 
 $red: #ea2e49;
@@ -27,10 +27,11 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    65rem;
+$content-width:    70rem;
 
 $on-palm:          600px;
 $on-laptop:        800px;
+
 
 
 

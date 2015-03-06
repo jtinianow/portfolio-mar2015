@@ -1,21 +1,30 @@
 ---
-layout: default
+layout: sections
 ---
 
-<div class="post">
+<div class="post post--project">
 
-  <header class="post-header--project">
-    <h1 class="post-title">{{ page.title }}</h1>
-
-    <p class="post-meta">{{ page.date | date: "%b %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
-
-  <article class="post-content--project">
+  <article class="post-content post-content--project">
     {{ content }}
   </article>
 
-  <div class="post-project__back">
-  	<a class="post-project__link" href="{{ site.baseurl }}/projects/">More Projects</a>
+  <div class="wrapper post-nav post-nav--project">
+	<div class="post-nav__seq">
+		{% if page.previous %} 
+		<a class="post-nav__link post-nav__link--prev" href="{{ page.previous.url }}"><i class="fa fa-angle-left fa-2x"></i></a>
+		{% else %}
+		<span class="post-nav__link post-nav__link--inactive"><i class="fa fa-angle-left fa-2x"></i></span>
+		{% endif %}
+		<div class="post-nav__archive">
+	  	<a class="post-nav--project__link" href="{{ site.baseurl }}/#work">More Projects</a>
+		</div>
+		{% if page.next %} 
+		<a class="post-nav__link post-nav__link--next" href="{{ page.next.url }}"><i class="fa fa-angle-right fa-2x"></i></a>
+		{% else %}
+		<span class="post-nav__link post-nav__link--inactive"><i class="fa fa-angle-right fa-2x"></i></span>
+		{% endif %}
+	</div>
+	
   </div>
 
 </div>

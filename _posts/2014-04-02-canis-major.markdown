@@ -1,9 +1,11 @@
 ---
 layout: post-project
 title:  "Canis Major"
+client: "Personal"
 date:   2014-09-16 21:07:32
-thumbnail: http://hello.jtinianow.com/content/projects/canis-major/canis-major-thumb.jpg
+thumbnail: /content/projects/canis-major/canis-major-thumb.jpg
 categories: projects
+published: false
 ---
 
 Poster design

@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="page page--work">
+	<h1 class="page-header page-header--work">{{ page.title }}</h1>
+	<div class="page--work__previews">
+		{% for post in site.categories.projects limit:12 %}
+				<div class="page--work__post-preview">
+					{{% for posts in category %}}
+						{{% for post in projects/posts %}}
+								<a href="{{ site.baseurl }}{{ post.url }}" class="post-link post-link--project">
+								<!-- <div class="post-title--project__wrapper">
+									<p class="post-title post-title--project">{{ post.title }}</p>
+								</div> -->
+								<div class="post-thumb__wrapper post-thumb--project__wrapper">
+									<img src="{{ post.thumbnail | prepend: site.baseurl }}" class="post-thumb post-thumb--project" />
+								</div>
+								</a>
+						{{% endfor %}}
+					{{% endfor %}}
+				</div>
+		{% endfor %}
+	</div>
+</div>

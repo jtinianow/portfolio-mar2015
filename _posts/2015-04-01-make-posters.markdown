@@ -1,9 +1,11 @@
 ---
 layout: post-project
 title:  "MAKE Posters"
+client: "Personal"
 date:   2013-09-01 21:07:32
-thumbnail: http://hello.jtinianow.com/content/projects/make-posters/make-poster-blue-thumb.jpg
+thumbnail: /content/projects/make-posters/make-poster-blue-thumb.jpg
 categories: projects
+published: false
 ---
 
 Poster designed and printed on used construction documents to give a voice to the growing Maker Movement.

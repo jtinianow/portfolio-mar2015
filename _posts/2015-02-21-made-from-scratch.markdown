@@ -5,6 +5,7 @@ subtitle: "It’s 2015, So Why On Earth Would I Want To Be Inefficient?"
 excerpt: "From spring of 2012 until now, I’ve gone from student to professional, back to student. Switching between these roles, I’ve become aware of a crucial difference between them…"
 date:   2015-02-20 21:07:32
 categories: writing
+published: false
 ---
 
 <div class="writing-image--full-width">

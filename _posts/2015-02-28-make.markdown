@@ -1,12 +1,38 @@
 ---
 layout: post-project
 title:  "Make"
+client: "Personal"
 date:   2015-02-28 21:07:32
-thumbnail: http://hello.jtinianow.com/content/projects/make/make-thumb.jpg
+thumbnail: /content/projects/make/make-thumb.jpg
 categories: projects
+tags: Lettering
 ---
-Custom lettering.
 
-<div>
+<section class="post-header__wrapper" style="background-color: #59B6D7; color: #FFFFFF;">
+	{% include project-header.html %}
+</section>
+
+<section class="grey--light">
+<h2>Lettering For Fun</h2>
+<p>I did this piece as a personal project for fun. The word "make" has always appealed to me as a creator.</p>
+</section>
+
+<section>
+<h3>First Sketch</h3>
+<img src="{{ site.baseurl }}/content/projects/make/make-scan.jpg" />
+<p class="caption">First sketch.</p>
+</section>
+
+<section class="grey--light">
+<h3>Refinements</h3>
+<img src="{{ site.baseurl }}/content/projects/make/make-process.gif" />
+<p class="caption">Making refinements.</p>
+<p>After scanning in the sketch, I traced the outline in Illustrator and added texture in photoshop.</p>
+</section>
+
+<section>
+<h3>The Final Product</h3>
 <img src="{{ site.baseurl }}/content/projects/make/make.jpg" />
-</div>
+<p class="caption">The final product.</p>
+<p>Fin.</p>
+</section>

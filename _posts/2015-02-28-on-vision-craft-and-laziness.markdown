@@ -5,6 +5,7 @@ subtitle: "You Can't, Like, Own an Idea, Man."
 excerpt: "Because experts don’t have the best ideas, they have the clearest vision, the highest craft, and the cleverest minds…"
 date:   2015-02-28 21:07:32
 categories: writing
+published: false
 ---
 
 <div class="writing-image--full-width">

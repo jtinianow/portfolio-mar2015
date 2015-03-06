@@ -1,9 +1,11 @@
 ---
 layout: post-project
 title:  "Pinchflat 2014"
+client: "Personal"
 date:   2014-11-01 21:07:32
-thumbnail: http://hello.jtinianow.com/content/projects/pinchflat2014/pinchflat2014-thumb.jpg
+thumbnail: /content/projects/pinchflat2014/pinchflat2014-thumb.jpg
 categories: projects
+published: false
 ---
 Poster designed for for the annual Pinchflat poster exhibition in Columbus, OH.
 
