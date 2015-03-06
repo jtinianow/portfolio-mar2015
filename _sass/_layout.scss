@@ -143,8 +143,10 @@
     }
 }
 .site-footer__wrapper{
-
+    
+    color: $grey-color;
     @media (min-width: 768px) {
+        font-size: 0.8em;
         display: flex;
     }
 }
@@ -431,7 +433,7 @@ p.project-preview__tags, p.project-preview__client {
     }
 }
 .home-links__wrapper {
-    margin-right: $spacing-unit;
+    margin-right: $spacing-unit / 2;
 
     @media (min-width: 1100px) {
         margin-right: 0;
