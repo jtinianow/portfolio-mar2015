@@ -377,7 +377,10 @@ section h2, section h3 {
 
 .project-brief {
   padding-top: 4rem;
-  padding-bottom: 24rem; }
+  padding-bottom: 12rem; }
+  @media (min-width: 768px) {
+    .project-brief {
+      padding-bottom: 24rem; } }
 
 .project-footer {
   text-align: center; }
