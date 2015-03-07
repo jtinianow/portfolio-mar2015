@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Mar 2015 15:33:11 -0700</pubDate>
-    <lastBuildDate>Sat, 07 Mar 2015 15:33:11 -0700</lastBuildDate>
+    <pubDate>Sat, 07 Mar 2015 15:45:51 -0700</pubDate>
+    <lastBuildDate>Sat, 07 Mar 2015 15:45:51 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -174,7 +174,7 @@
     
       <item>
         <title>Columbus Idea Foundry Brand</title>
-        <description>&lt;section class=&quot;post-header__wrapper&quot; style=&quot;background-color: #3B83BE; background-image: url(/content/projects/columbus-idea-foundry/cif-bg.png); color: #C8F0FF;&quot;&gt;
+        <description>&lt;section class=&quot;post-header__wrapper&quot; style=&quot;background-color: #3B83BE; color: #C8F0FF;&quot;&gt;
 	&lt;header class=&quot;post-header post-header--project&quot;&gt;
 	&lt;h1 class=&quot;post-title post-title--project&quot;&gt;Columbus Idea Foundry Brand&lt;/h1&gt;
 	&lt;!-- &lt;p class=&quot;post-meta post-meta--project&quot;&gt;Jul 2012&lt;/p&gt;

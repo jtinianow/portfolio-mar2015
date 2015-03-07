@@ -10,7 +10,7 @@ tags:
 - "Visual Design"
 ---
 
-<section class="post-header__wrapper" style="background-color: #3B83BE; background-image: url(/content/projects/columbus-idea-foundry/cif-bg.png); color: #C8F0FF;">
+<section class="post-header__wrapper" style="background-color: #3B83BE; color: #C8F0FF;">
 	{% include project-header.html %}
 </section>
 
