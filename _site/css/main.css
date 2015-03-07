@@ -295,12 +295,12 @@ footer p {
 .post {
   margin-bottom: 2rem; }
 
-.post-content section > *, .page p, .post-nav {
+.post-content section > *, .page p, .post-nav, .post-content__image--full-size {
   max-width: 40rem;
   margin: 0 1rem inherit 1rem;
   margin-left: 1rem; }
   @media (min-width: 768px) {
-    .post-content section > *, .page p, .post-nav {
+    .post-content section > *, .page p, .post-nav, .post-content__image--full-size {
       margin: 0 auto 1rem auto; } }
 
 .post-content h2, .post-content h3 {
@@ -312,10 +312,6 @@ footer p {
 .post-content img {
   display: block;
   margin: 3rem auto 0.5rem auto; }
-
-.post-content__image--full-size {
-  margin-right: 1rem;
-  margin-left: 1rem; }
 
 .post-content__image--full-size p {
   margin-left: 0;
