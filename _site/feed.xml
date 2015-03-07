@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Mar 2015 15:24:47 -0700</pubDate>
-    <lastBuildDate>Fri, 06 Mar 2015 15:24:47 -0700</lastBuildDate>
+    <pubDate>Sat, 07 Mar 2015 15:23:15 -0700</pubDate>
+    <lastBuildDate>Sat, 07 Mar 2015 15:23:15 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -18,11 +18,14 @@
 	&lt;!-- &lt;p class=&quot;post-meta post-meta--project&quot;&gt;Feb 2015&lt;/p&gt;
 	&lt;h2 class=&quot;post-header__client&quot;&gt;&lt;span class=&quot;post-header__info post-header__info--client&quot;&gt;Client: &lt;/span&gt;Personal&lt;/h2&gt; --&gt;
 	&lt;!-- &lt;p class=&quot;project-preview__client&quot;&gt;Personal&lt;/p&gt; --&gt;
-	&lt;p class=&quot;project__tags&quot;&gt;Lettering&lt;/p&gt;
+	&lt;div class=&quot;post-header__info&quot;&gt;
+		&lt;h2 class=&quot;post-header__client&quot;&gt;&lt;span class=&quot;post-header__info post-header__info--client&quot;&gt;Client: &lt;/span&gt;Personal&lt;/h2&gt;
+		&lt;p class=&quot;project__tags&quot;&gt;Lettering&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/header&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grey--light&quot;&gt;
+&lt;section class=&quot;project-brief grey--light&quot;&gt;
 &lt;h2&gt;Lettering For Fun&lt;/h2&gt;
 &lt;p&gt;I did this piece as a personal project for fun. The word &quot;make&quot; has always appealed to me as a creator.&lt;/p&gt;
 &lt;/section&gt;
@@ -66,11 +69,14 @@
 	&lt;!-- &lt;p class=&quot;post-meta post-meta--project&quot;&gt;Nov 2013&lt;/p&gt;
 	&lt;h2 class=&quot;post-header__client&quot;&gt;&lt;span class=&quot;post-header__info post-header__info--client&quot;&gt;Client: &lt;/span&gt;Fuse Factory&lt;/h2&gt; --&gt;
 	&lt;!-- &lt;p class=&quot;project-preview__client&quot;&gt;Fuse Factory&lt;/p&gt; --&gt;
-	&lt;p class=&quot;project__tags&quot;&gt;Visual Design&lt;/p&gt;
+	&lt;div class=&quot;post-header__info&quot;&gt;
+		&lt;h2 class=&quot;post-header__client&quot;&gt;&lt;span class=&quot;post-header__info post-header__info--client&quot;&gt;Client: &lt;/span&gt;Fuse Factory&lt;/h2&gt;
+		&lt;p class=&quot;project__tags&quot;&gt;Visual Design&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/header&gt;
 &lt;/section&gt;
 
-&lt;section&gt;
+&lt;section class=&quot;project-brief&quot;&gt;
 &lt;h2&gt;The Brief&lt;/h2&gt;
 &lt;p&gt;Arts and education non-profit the Fuse Factory contracted with me to create a set of print promotions for the 2013&amp;ndash;2014 season of their music &amp;amp; tech event series &lt;em&gt;Frequency Fridays&lt;/em&gt;. The series showcases artists who make music with technology intended for other uses.&lt;/p&gt;
 &lt;/section&gt;
@@ -122,17 +128,19 @@
 	&lt;!-- &lt;p class=&quot;post-meta post-meta--project&quot;&gt;Jul 2013&lt;/p&gt;
 	&lt;h2 class=&quot;post-header__client&quot;&gt;&lt;span class=&quot;post-header__info post-header__info--client&quot;&gt;Client: &lt;/span&gt;Columbus Idea Foundry&lt;/h2&gt; --&gt;
 	&lt;!-- &lt;p class=&quot;project-preview__client&quot;&gt;Columbus Idea Foundry&lt;/p&gt; --&gt;
-	&lt;p class=&quot;project__tags&quot;&gt;Visual Design, Laser Cutting&lt;/p&gt;
+	&lt;div class=&quot;post-header__info&quot;&gt;
+		&lt;h2 class=&quot;post-header__client&quot;&gt;&lt;span class=&quot;post-header__info post-header__info--client&quot;&gt;Client: &lt;/span&gt;Columbus Idea Foundry&lt;/h2&gt;
+		&lt;p class=&quot;project__tags&quot;&gt;Visual Design, Laser Cutting&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/header&gt;
 &lt;/section&gt;
 
-&lt;section&gt;
+&lt;section class=&quot;project-brief&quot;&gt;
 &lt;h2&gt;The Brief&lt;/h2&gt;
 &lt;p&gt;The Columbus Idea Foundry approached me to help them reach their target audience. The typical Idea Foundry member is someone who has an interest in making things, but doesn&#39;t have the tools to do so. After some discussion, we landed on the concept of using a puzzle to represent the &quot;missing pieces&quot; provided by the Foundry.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grey--light&quot;&gt;
-&lt;h3&gt;The Puzzle&lt;/h3&gt;
+&lt;section&gt;
 &lt;img src=&quot;/content/projects/make-puzzle/make-puzzle-drawn.jpg&quot; /&gt;
 &lt;p class=&quot;caption&quot;&gt;The initial puzzle design.&lt;/p&gt;
 &lt;p&gt;I was offered use of the Foundry&#39;s CO2 laser to create the promotion, and jumped at the opportunity to play with such a high-tech piece of equipment. After designing the puzzle, I cut and etched it with the laser.&lt;/p&gt;
@@ -166,59 +174,75 @@
     
       <item>
         <title>Columbus Idea Foundry Brand</title>
-        <description>&lt;section class=&quot;post-header__wrapper&quot; style=&quot;background-color: #3B83BE; background: linear-gradient(to right, #2E5574, #3B83BE); background-image: url(/content/projects/columbus-idea-foundry/cif-bg.png); color: #C8F0FF;&quot;&gt;
+        <description>&lt;section class=&quot;post-header__wrapper&quot; style=&quot;background-color: #3B83BE; background-image: url(/content/projects/columbus-idea-foundry/cif-bg.png); color: #C8F0FF;&quot;&gt;
 	&lt;header class=&quot;post-header post-header--project&quot;&gt;
 	&lt;h1 class=&quot;post-title post-title--project&quot;&gt;Columbus Idea Foundry Brand&lt;/h1&gt;
 	&lt;!-- &lt;p class=&quot;post-meta post-meta--project&quot;&gt;Jul 2012&lt;/p&gt;
 	&lt;h2 class=&quot;post-header__client&quot;&gt;&lt;span class=&quot;post-header__info post-header__info--client&quot;&gt;Client: &lt;/span&gt;Columbus Idea Foundry&lt;/h2&gt; --&gt;
 	&lt;!-- &lt;p class=&quot;project-preview__client&quot;&gt;Columbus Idea Foundry&lt;/p&gt; --&gt;
-	&lt;p class=&quot;project__tags&quot;&gt;Art Direction, Visual Design&lt;/p&gt;
+	&lt;div class=&quot;post-header__info&quot;&gt;
+		&lt;h2 class=&quot;post-header__client&quot;&gt;&lt;span class=&quot;post-header__info post-header__info--client&quot;&gt;Client: &lt;/span&gt;Columbus Idea Foundry&lt;/h2&gt;
+		&lt;p class=&quot;project__tags&quot;&gt;Art Direction, Visual Design&lt;/p&gt;
+	&lt;/div&gt;
 &lt;/header&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;grey--light&quot;&gt;
+&lt;section class=&quot;project-brief grey--light&quot;&gt;
+&lt;div&gt;
 &lt;h2&gt;The Brief&lt;/h2&gt;
-&lt;h2 class=&quot;post-header__client&quot;&gt;&lt;span class=&quot;post-header__info post-header__info--client&quot;&gt;Client: &lt;/span&gt;Columbus Idea Foundry&lt;/h2&gt;
 &lt;p&gt;Working with the Foundry&#39;s leadership, our goal was to communicate the Foundry&#39;s capacity to empower individuals to create whatever they can imagine with the resources and communal knowledge available.&lt;/p&gt;
+&lt;/div&gt;
 &lt;/section&gt;
 
 &lt;section class=&quot;post-content__image--full-width&quot;&gt;
-&lt;h3&gt;The Logo&lt;/h3&gt;
-&lt;p&gt;As the cornerstone of the Foundry&#39;s visual identity, the new logo was the first asset to be created. In addition to clarity of communication, versatility was a crucial concern for the logo. It was important to create a mark that could be fabricated with any of the tools available at the Foundry.&lt;/p&gt;
+&lt;!-- &lt;h3&gt;The Logo&lt;/h3&gt;
+&lt;p&gt;The new logo was the first asset to be created. Versatility was a crucial concern for the logo &amp;mdash; it was important to create a mark that could be fabricated with any of the tools available at the Foundry.&lt;/p&gt; --&gt;
 &lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF-logoiterations-1.jpg&quot; alt=&quot;Initial logo drafts.&quot; /&gt;
 &lt;p class=&quot;caption&quot;&gt;Initial logo drafts.&lt;/p&gt;
-&lt;p&gt;Initial iterations focused on imagery analagous to tools, manufacturing, physics, and electricity. Departing further, we explored imagery related to the concept of ideas.&lt;/p&gt;
+&lt;p&gt;Initial logo iterations focused on imagery analagous to tools, manufacturing, physics, and electricity.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;post-content__image--full-width&quot;&gt;
 &lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF-logoiterations-2.jpg&quot; alt=&quot;Refined drafts exploring the lightbulb.&quot; /&gt;
 &lt;p class=&quot;caption&quot;&gt;Refined drafts exploring the lightbulb.&lt;/p&gt;
-&lt;p&gt;The second round of drafts was more abstract, to avoid imagery that would be too narrowly focused upon specific creative processes. These drafts attempted to communicate ideas and community at a more conceptual level.&lt;/p&gt;
+&lt;p&gt;Departing further, we explored imagery related to the concept of ideas.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;post-content__image--full-width&quot;&gt;
 &lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF-logo-1.jpg&quot; /&gt;
 &lt;p class=&quot;caption&quot;&gt;The final logo.&lt;/p&gt;
 &lt;p&gt;The final logo takes off on the analogy of the lightbulb as the idea, while the hexagon represents hive-like community.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;post-content__image--full-width&quot;&gt;
 &lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF-logo-2.jpg&quot; /&gt;
 &lt;p class=&quot;caption&quot;&gt;The final lockup.&lt;/p&gt;
 &lt;p&gt;The logo and wordmark lockup further emphasizes idea as a core component of the Foundry&#39;s mission.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;post-content__image--full-width grey--light&quot;&gt;
-&lt;h3&gt;Typography&lt;/h3&gt;
-&lt;p&gt;The maker community values open-source, and so does the Columbus Idea Foundry. As such, in developing the type pallete, Source Sans Pro was selected as the workhorse, supplemented by League Gothic for emphasis.&lt;/p&gt;
-&lt;/section&gt;
 &lt;section class=&quot;post-content__image--full-width&quot; style=&quot;background-color: #3B83BE;&quot;&gt;
 &lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF-Typespec.jpg&quot; /&gt;
 &lt;/section&gt;
+&lt;section class=&quot;post-content__image--full-width&quot;&gt;
+&lt;!-- &lt;h3&gt;Typography&lt;/h3&gt; --&gt;
+&lt;p&gt;The maker community values open-source, and so does the Columbus Idea Foundry. As such, in developing the type pallete, Source Sans Pro was selected as the workhorse, supplemented by League Gothic for emphasis.&lt;/p&gt;
+&lt;/section&gt;
 
 &lt;section class=&quot;post-content__image--full-size&quot;&gt;
-&lt;h3&gt;Print Collateral&lt;/h3&gt;
-&lt;p&gt;Evergreen print collateral was also developed as part of the new visual identity. I worked this through from concept through creation, including some contributions to the copy.&lt;/p&gt;
+&lt;!-- &lt;h3&gt;Print Collateral&lt;/h3&gt; --&gt;
 &lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF-postcard-1.jpg&quot; /&gt;
 &lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF-postcard-2.jpg&quot; /&gt;
 &lt;p class=&quot;caption&quot;&gt;Postcard promotion encapsulating the Idea Foundry&#39;s mission.&lt;/p&gt;
+&lt;p&gt;Evergreen print collateral was also developed as part of the new visual identity. I worked this through from concept through creation, including some contributions to the copy.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section class=&quot;post-content__image--full-size&quot;&gt;
 &lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF_Sign1.jpg&quot; /&gt;
 &lt;img src=&quot;/content/projects/columbus-idea-foundry/CIF_Sign2.jpg&quot; /&gt;
 &lt;p class=&quot;caption&quot;&gt;Signage for events.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;section&gt;
+&lt;section class=&quot;project-footer&quot;&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;The final style guide in it&#39;s entirety can be viewed &lt;a href=&quot;/content/projects/columbus-idea-foundry/CIF_StyleGuide_Dec2013_v1.pdf&quot; target=&quot;_blank&quot;&gt; here&lt;/a&gt;.&lt;/p&gt;
 &lt;/section&gt;
 </description>

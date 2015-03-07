@@ -3,5 +3,8 @@
 	<!-- <p class="post-meta post-meta--project">{{ page.date | date: "%b %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 	<h2 class="post-header__client"><span class="post-header__info post-header__info--client">Client: </span>{{ page.client }}</h2> -->
 	<!-- <p class="project-preview__client">{{ page.client }}</p> -->
-	<p class="project__tags">{{ page.tags }}</p>
+	<div class="post-header__info">
+		<h2 class="post-header__client"><span class="post-header__info post-header__info--client">Client: </span>{{ page.client }}</h2>
+		<p class="project__tags">{{ page.tags }}</p>
+	</div>
 </header>

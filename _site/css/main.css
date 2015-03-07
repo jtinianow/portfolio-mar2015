@@ -82,9 +82,6 @@ a {
   color: inherit;
   text-decoration: none; }
 
-p a {
-  background-color: whitesmoke; }
-
 /**
  * Captions
  */
@@ -167,18 +164,14 @@ pre {
   width: 100%;
   position: fixed;
   top: 0;
-  border-bottom: 1px solid #cecece;
-  background: #FAFAFA; }
-  @media (min-width: 768px) {
-    .site-header__wrapper {
-      border-bottom: none; } }
+  z-index: 9999; }
 
 .site-header {
-  font-family: "nudista-web", Helvetia, Arial, sans-serif;
+  font-family: "nudista-web", Helvetica, Arial, sans-serif;
   font-weight: 400;
   letter-spacing: 1px;
   font-size: 0.7em;
-  line-height: 4rem;
+  line-height: 2rem;
   text-transform: uppercase;
   min-height: 4rem;
   position: fixed;
@@ -187,82 +180,68 @@ pre {
     .site-header {
       line-height: 3.75rem; } }
 
+.site-title__wrapper {
+  display: none; }
+
+.site-title__wrapper--visible {
+  padding-top: 4rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  border-bottom: 1px solid #cecece;
+  background: #FAFAFA; }
+
 .site-title {
   margin-bottom: 0;
   float: left;
-  border-bottom: none; }
+  border-bottom: none;
+  position: absolute;
+  z-index: 999; }
   .site-title, .site-title:visited {
     color: #444; }
 
 .site-title__logo--retina {
   padding-right: 0.5em; }
 
-.headroom, .headroom--top {
-  transition: top 0.3s ease; }
-
-.headroom--pinned {
-  top: 0; }
-
-.headroom--pinned, .headroom--not-top {
-  background: #FAFAFA;
-  border-bottom: 1px solid #e8e8e8;
-  z-index: 999; }
-
-.headroom--unpinned {
-  top: -4rem;
-  border-bottom-width: 4px; }
-
-@media (min-width: 768px) {
-  .headroom--top {
-    border-bottom: none; } }
+.headroom--not-top img {
+  opacity: 0.5; }
 
 .nav-primary__menu-toggle {
   float: right;
   border-bottom: none;
-  margin-right: 3%; }
-  @media (min-width: 768px) {
-    .nav-primary__menu-toggle {
-      display: none; } }
+  margin-right: 3%;
+  position: relative;
+  right: 0;
+  z-index: 999; }
 
 .nav-primary {
-  position: absolute;
-  right: 1rem;
-  left: 0;
-  top: 4rem;
+  position: relative;
   width: 100%;
-  background: #FAFAFA; }
-  @media (min-width: 768px) {
-    .nav-primary {
-      position: relative;
-      right: initial;
-      top: initial;
-      width: auto;
-      float: right; } }
+  z-index: 998;
+  font-family: "nudista-web", Helvetica, Arial, sans-serif;
+  font-size: 0.8em; }
 
-.nav-primary__menu {
-  display: none; }
+.nav-primary__menu--col-1, .nav-primary__menu--col-2 {
+  float: right; }
   @media (min-width: 768px) {
-    .nav-primary__menu {
-      display: inline-block; } }
+    .nav-primary__menu--col-1, .nav-primary__menu--col-2 {
+      width: 25%; } }
 
-.nav-primary__menu--visible {
-  border-top: 1px solid #e8e8e8; }
+.menu-link {
+  text-align: right; }
 
 .nav-primary__page-link {
   display: inline-block;
-  width: 100%;
-  border-bottom: 1px solid #cecece;
-  text-align: center; }
-  @media (min-width: 768px) {
-    .nav-primary__page-link {
-      width: auto;
-      border-bottom: none;
-      text-align: right;
-      padding: 0.25em 0 0.25em 1em; } }
+  font-weight: 300; }
+
+.nav-primary__page-link--header {
+  font-weight: 400; }
 
 @media (min-width: 768px) {
   .nav-primary__page-link:hover {
-    text-decoration: underline; } }
+    background-color: #e8e8e8; } }
 
 .site-footer {
   border-top: 1px solid #e8e8e8;
@@ -313,68 +292,52 @@ footer p {
       padding-top: 4rem;
       padding-bottom: 4rem; } }
 
-.page-content {
-  margin-top: 3rem; }
-
-.page, .post {
-  padding-top: 1rem; }
-
 .post {
   margin-bottom: 2rem; }
 
-.post-content section > *, .post-header, .page p, .post-nav {
+.post-content section > *, .page p, .post-nav {
   max-width: 40rem;
-  margin: 0 1rem 0.5rem 1rem; }
+  margin: 0 1rem inherit 1rem;
+  margin-left: 1rem; }
   @media (min-width: 768px) {
-    .post-content section > *, .post-header, .page p, .post-nav {
+    .post-content section > *, .page p, .post-nav {
       margin: 0 auto 1rem auto; } }
+
+.post-content h2, .post-content h3 {
+  margin-bottom: 0; }
 
 .page p {
   margin: 0 0 1rem 0; }
 
 .post-content img {
   display: block;
-  margin: 2rem auto 0.5rem auto; }
+  margin: 3rem auto 0.5rem auto; }
 
 .post-content__image--full-size {
   margin-right: 1rem;
   margin-left: 1rem; }
 
-.post-content__image--full-size > h2, .post-content__image--full-size > h3, .post-content__image--full-size > p {
-  margin-right: 0;
-  margin-left: 0; }
-  @media (min-width: 768px) {
-    .post-content__image--full-size > h2, .post-content__image--full-size > h3, .post-content__image--full-size > p {
-      max-width: 40rem;
-      margin: 0 auto 1rem auto; } }
+.post-content__image--full-size p {
+  margin-left: 0;
+  margin-right: 0; }
 
-.post section {
+section {
   height: 100%;
-  padding-top: 1rem; }
+  padding: 2rem 0 4rem 0; }
 
-.post section h2:first-child, .post section h3:first-child, .post section p:first-child, .post section img:first-child {
-  margin-top: 0;
-  padding-top: 1rem; }
-  @media (min-width: 768px) {
-    .post section h2:first-child, .post section h3:first-child, .post section p:first-child, .post section img:first-child {
-      padding-top: 3rem; } }
-
-.post section p:last-child, .post section img:last-child:last-child {
-  padding-bottom: 2rem; }
-  @media (min-width: 768px) {
-    .post section p:last-child, .post section img:last-child:last-child {
-      padding-bottom: 4rem; } }
+section h2, section h3 {
+  color: #ea2e49; }
 
 .post section.post-header__wrapper {
   background: #e8e8e8;
   background-size: cover !important;
+  background-attachment: fixed;
   padding-top: 0; }
 
 .post-header {
   padding: 4rem 0;
   margin-bottom: 0;
-  font-family: "nudista-web", Helvetia, Arial, sans-serif;
-  text-align: center; }
+  font-family: "nudista-web", Helvetica, Arial, sans-serif; }
   @media (min-width: 768px) {
     .post-header {
       padding: 10rem 0; } }
@@ -390,7 +353,9 @@ footer p {
   margin-bottom: 0; }
 
 .post-meta, .post-header__client {
-  font-family: "garamond-premier-pro", Georgia, Times, serif; }
+  font-family: "garamond-premier-pro", Georgia, Times, serif;
+  font-size: 0.9em;
+  font-weight: 300; }
 
 .post-header__client {
   color: inherit; }
@@ -412,8 +377,16 @@ footer p {
   background-color: #EEE; }
 
 .post-content--project h2:first-child, .post-content--project h3 {
-  font-family: "nudista-web", Helvetia, Arial, sans-serif;
-  color: #ea2e49; }
+  font-family: "nudista-web", Helvetica, Arial, sans-serif; }
+
+.project-brief {
+  padding-top: 4rem;
+  padding-bottom: 24rem; }
+
+.project-footer {
+  text-align: center; }
+  .project-footer a {
+    background: #e8e8e8; }
 
 .post-nav__seq {
   color: #828282; }
@@ -451,7 +424,7 @@ footer p {
   margin: 0 auto; }
 
 .page-content--body h2, .page--home__label, .section--home__header, .page-header--work, .home-links__label {
-  font-family: "nudista-web", Helvetia, Arial, sans-serif;
+  font-family: "nudista-web", Helvetica, Arial, sans-serif;
   font-size: 0.8em;
   letter-spacing: 1px;
   font-weight: 400;
@@ -479,7 +452,7 @@ footer p {
 
 .project-preview {
   position: relative;
-  background: #CBDEDF; }
+  background: #FAFAFA; }
 
 .project-preview__info {
   display: none;
@@ -492,7 +465,7 @@ footer p {
   transition: display 0.2s ease; }
 
 .project-preview__title {
-  font-family: "nudista-web", Helvetia, Arial, sans-serif;
+  font-family: "nudista-web", Helvetica, Arial, sans-serif;
   margin-bottom: 1rem; }
 
 p.project-preview__tags, p.project-preview__client {
@@ -514,7 +487,9 @@ p.project-preview__tags, p.project-preview__client {
     display: block; } }
 
 .project-preview img {
-  transition: opacity 0.2s ease; }
+  transition: opacity 0.2s ease;
+  -webkit-backface-visibility: hidden;
+  -webkit-transform: translateZ(0) scale(1, 1); }
 
 @media (min-width: 768px) {
   .project-preview:hover img {
@@ -531,7 +506,7 @@ span.home-links__link {
   display: inline-block; }
 
 p.home-links__link, span.home-links__link {
-  font-family: "nudista-web", Helvetia, Arial, sans-serif;
+  font-family: "nudista-web", Helvetica, Arial, sans-serif;
   font-size: 0.8em;
   margin-bottom: 0; }
 
@@ -576,7 +551,7 @@ p.home-links__link, span.home-links__link {
 .page--home__contact-link {
   display: inline-block;
   padding: 0.4rem 1rem;
-  font-family: "nudista-web", Helvetia, Arial, sans-serif;
+  font-family: "nudista-web", Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-size: 0.8em;
   text-transform: uppercase;

@@ -1,8 +1,8 @@
 function changeClass() {
-	if ( document.getElementById("menu-1").className.match(/(?:^|\s)nav-primary__menu(?!\S)/) )
-		document.getElementById("menu-1").className = document.getElementById("menu-1").className.replace ( /(?:^|\s)nav-primary__menu(?!\S)/g , 'nav-primary__menu--visible' );
+	if ( document.getElementById("menu-1").className.match(/(?:^|\s)site-title__wrapper(?!\S)/) )
+		document.getElementById("menu-1").className = document.getElementById("menu-1").className.replace ( /(?:^|\s)site-title__wrapper(?!\S)/g , 'site-title__wrapper--visible' );
 	else (
-	document.getElementById("menu-1").className = "nav-primary__menu");
+	document.getElementById("menu-1").className = "site-title__wrapper");
 }
 
 

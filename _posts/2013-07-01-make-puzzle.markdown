@@ -14,13 +14,12 @@ tags:
 	{% include project-header.html %}
 </section>
 
-<section>
+<section class="project-brief">
 <h2>The Brief</h2>
 <p>The Columbus Idea Foundry approached me to help them reach their target audience. The typical Idea Foundry member is someone who has an interest in making things, but doesn't have the tools to do so. After some discussion, we landed on the concept of using a puzzle to represent the "missing pieces" provided by the Foundry.</p>
 </section>
 
-<section class="grey--light">
-<h3>The Puzzle</h3>
+<section>
 <img src="{{ site.baseurl }}/content/projects/make-puzzle/make-puzzle-drawn.jpg" />
 <p class="caption">The initial puzzle design.</p>
 <p>I was offered use of the Foundry's CO2 laser to create the promotion, and jumped at the opportunity to play with such a high-tech piece of equipment. After designing the puzzle, I cut and etched it with the laser.</p>

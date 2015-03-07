@@ -12,7 +12,7 @@ tags: Lettering
 	{% include project-header.html %}
 </section>
 
-<section class="grey--light">
+<section class="project-brief grey--light">
 <h2>Lettering For Fun</h2>
 <p>I did this piece as a personal project for fun. The word "make" has always appealed to me as a creator.</p>
 </section>

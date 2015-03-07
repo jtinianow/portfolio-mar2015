@@ -1,16 +1,18 @@
 <div id="header" class="site-header__wrapper">
-  <header class="site-header">
+  <header class="wrapper site-header">
+ <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/img/oroburous_02.png" class="site-title__logo--retina" width="24" height="24" /></a> 
+  <a id="nav-primary__menu-toggle" class="nav-primary__menu-toggle">Menu</a>
+  </header>
 
-    <div class="wrapper site-title__wrapper">
 
-      <a class="site-title" href="{{ site.baseurl }}/">
+    <div id="menu-1" class="site-title__wrapper">
+
+      <!-- <a class="site-title" href="{{ site.baseurl }}/">
         <img src="{{ site.baseurl }}/assets/img/oroburous_02.png" class="site-title__logo--retina" width="32" height="32" />
         <span>{{ site.title }}</span>
-      </a>
-	
+      </a> -->
 	{% include mobile-menu.html %}
 
     </div>
 
-  </header>
 </div>

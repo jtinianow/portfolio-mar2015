@@ -13,7 +13,7 @@ tags:
 	{% include project-header.html %}
 </section>
 
-<section>
+<section class="project-brief">
 <h2>The Brief</h2>
 <p>Arts and education non-profit the Fuse Factory contracted with me to create a set of print promotions for the 2013&ndash;2014 season of their music &amp; tech event series <em>Frequency Fridays</em>. The series showcases artists who make music with technology intended for other uses.</p>
 </section>
