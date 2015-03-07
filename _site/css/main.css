@@ -160,6 +160,19 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+.wf-loading h1, .wf-loading h2, .wf-loading h3, .wf-loading h4, .wf-loading h5, .wf-loading h6,
+.wf-loading p, .wf-loading blockquote, .wf-loading ol, .wf-loading ul, .wf-loading a, .wf-loading span {
+  visibility: hidden; }
+.wf-loading .site-title__wrapper {
+  display: block;
+  opacity: 1;
+  padding-top: 4rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%; }
+
 .site-header__wrapper {
   width: 100%;
   position: fixed;
@@ -181,9 +194,13 @@ pre {
       line-height: 3.75rem; } }
 
 .site-title__wrapper {
-  display: none; }
+  display: none;
+  opacity: 0;
+  transition: display 5s ease; }
 
-.site-title__wrapper--visible {
+.site-title__wrapper.visible {
+  display: block;
+  opacity: 1;
   padding-top: 4rem;
   position: fixed;
   top: 0;

@@ -1,3 +1,23 @@
+// TypeKit
+.wf-loading{
+    h1, h2, h3, h4, h5, h6,
+    p, blockquote, ol, ul, a, span {
+        visibility: hidden;
+    }
+    .site-title__wrapper{
+    display: block;
+    opacity: 1;
+    padding-top: $spacing-unit * 2;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    }
+}
+
+
+
 // Site Header
 .site-header__wrapper{
     width: 100%;
@@ -24,8 +44,12 @@
 }
 .site-title__wrapper{
     display: none;
+    opacity: 0;
+    transition: display 5s ease;
 }
-.site-title__wrapper--visible{
+.site-title__wrapper.visible{
+    display: block;
+    opacity: 1;
     padding-top: $spacing-unit * 2;
     position: fixed;
     top: 0;
