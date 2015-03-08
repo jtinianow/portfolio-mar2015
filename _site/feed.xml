@@ -6,8 +6,8 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Mar 2015 16:26:00 -0700</pubDate>
-    <lastBuildDate>Sat, 07 Mar 2015 16:26:00 -0700</lastBuildDate>
+    <pubDate>Sat, 07 Mar 2015 21:39:14 -0700</pubDate>
+    <lastBuildDate>Sat, 07 Mar 2015 21:39:14 -0700</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -146,10 +146,13 @@
 &lt;p&gt;I was offered use of the Foundry&#39;s CO2 laser to create the promotion, and jumped at the opportunity to play with such a high-tech piece of equipment. After designing the puzzle, I cut and etched it with the laser.&lt;/p&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;post-content__image--full-size&quot;&gt;
+&lt;section class=&quot;post-content__image--full-width&quot;&gt;
 &lt;img src=&quot;/content/projects/make-puzzle/make-puzzle-cut.jpg&quot; /&gt;
 &lt;p class=&quot;caption&quot;&gt;The laser cut and etched puzzle.&lt;/p&gt;
 &lt;p&gt;After cutting the puzzle, the pieces were reassembled and composed for the final promotion.&lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
 &lt;img src=&quot;/content/projects/make-puzzle/make-puzzle-front-rough.jpg&quot; /&gt;
 &lt;p class=&quot;caption&quot;&gt;First draft of the front.&lt;/p&gt;
 &lt;p&gt;The initial design was a bit too fussy. The following draft was simplified to communicate more concisely.&lt;/p&gt;

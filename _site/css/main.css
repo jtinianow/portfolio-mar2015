@@ -274,6 +274,7 @@ pre {
   @media (min-width: 768px) {
     .site-footer__wrapper {
       font-size: 0.8em;
+      display: -webkit-flex;
       display: flex; } }
 
 .footer-heading {
@@ -330,7 +331,7 @@ footer p {
   display: block;
   margin: 3rem auto 0.5rem auto; }
 
-.post-content__image--full-size p {
+.post-content__image--full-size p, .post-content__image--full-size h3 {
   margin-left: 0;
   margin-right: 0; }
 
@@ -427,6 +428,7 @@ section h2, section h3 {
   color: #EEE; }
 
 .post-nav__archive {
+  display: -webkit-flex;
   display: flex;
   line-height: 2.5rem;
   width: 80%;
@@ -459,7 +461,9 @@ section h2, section h3 {
   margin-bottom: 2rem; }
   @media (min-width: 768px) {
     .work-previews--homepage, .page--work__previews {
+      display: -webkit-flex;
       display: flex;
+      -webkit-flex-wrap: wrap;
       flex-wrap: wrap; } }
 
 @media (min-width: 768px) {
@@ -531,6 +535,7 @@ p.home-links__link, span.home-links__link {
 
 @media (min-width: 960px) {
   .page--home__header {
+    display: -webkit-flex;
     display: flex; } }
 
 .page--home__description {
@@ -549,6 +554,7 @@ p.home-links__link, span.home-links__link {
       font-size: 125%; } }
 
 .page--home__links {
+  display: -webkit-flex;
   display: flex; }
   @media (min-width: 768px) {
     .page--home__links {
